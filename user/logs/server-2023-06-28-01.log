@@ -1,0 +1,645 @@
+[2023-06-27T17:00:06.450Z] debug: 	Generator: 4.5261 fuel left in slot 1
+[2023-06-27T17:00:06.453Z] debug: 	Water filter: 76.8158 filter left on slot 1
+[2023-06-27T17:00:06.720Z] info: 	存档已保存
+[2023-06-27T17:00:25.463Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:00:25.465Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:00:26.474Z] debug: 	Generator: 4.5115 fuel left in slot 1
+[2023-06-27T17:00:26.474Z] debug: 	Water filter: 76.7642 filter left on slot 1
+[2023-06-27T17:00:26.555Z] info: 	存档已保存
+[2023-06-27T17:00:46.521Z] debug: 	Generator: 4.4969 fuel left in slot 1
+[2023-06-27T17:00:46.521Z] debug: 	Water filter: 76.7126 filter left on slot 1
+[2023-06-27T17:00:46.593Z] info: 	存档已保存
+[2023-06-27T17:01:06.573Z] debug: 	Generator: 4.4823 fuel left in slot 1
+[2023-06-27T17:01:06.573Z] debug: 	Water filter: 76.661 filter left on slot 1
+[2023-06-27T17:01:06.636Z] info: 	存档已保存
+[2023-06-27T17:01:25.457Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:01:25.458Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:01:26.612Z] debug: 	Generator: 4.4677 fuel left in slot 1
+[2023-06-27T17:01:26.612Z] debug: 	Water filter: 76.6094 filter left on slot 1
+[2023-06-27T17:01:26.684Z] info: 	存档已保存
+[2023-06-27T17:01:46.642Z] debug: 	Generator: 4.4531 fuel left in slot 1
+[2023-06-27T17:01:46.643Z] debug: 	Water filter: 76.5578 filter left on slot 1
+[2023-06-27T17:01:46.909Z] info: 	存档已保存
+[2023-06-27T17:01:53.105Z] info: 	[客户端请求] /client/game/keepalive
+[2023-06-27T17:02:06.675Z] debug: 	Generator: 4.4385 fuel left in slot 1
+[2023-06-27T17:02:06.676Z] debug: 	Water filter: 76.5062 filter left on slot 1
+[2023-06-27T17:02:06.741Z] info: 	存档已保存
+[2023-06-27T17:02:25.464Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:02:25.466Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:02:26.699Z] debug: 	Generator: 4.4239 fuel left in slot 1
+[2023-06-27T17:02:26.699Z] debug: 	Water filter: 76.4546 filter left on slot 1
+[2023-06-27T17:02:26.757Z] info: 	存档已保存
+[2023-06-27T17:02:31.145Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:02:46.735Z] debug: 	Generator: 4.4093 fuel left in slot 1
+[2023-06-27T17:02:46.735Z] debug: 	Water filter: 76.403 filter left on slot 1
+[2023-06-27T17:02:46.804Z] info: 	存档已保存
+[2023-06-27T17:03:06.771Z] debug: 	Generator: 4.3947 fuel left in slot 1
+[2023-06-27T17:03:06.772Z] debug: 	Water filter: 76.3514 filter left on slot 1
+[2023-06-27T17:03:06.847Z] info: 	存档已保存
+[2023-06-27T17:03:25.465Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:03:25.466Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:03:26.799Z] debug: 	Generator: 4.3801 fuel left in slot 1
+[2023-06-27T17:03:26.799Z] debug: 	Water filter: 76.2998 filter left on slot 1
+[2023-06-27T17:03:27.053Z] info: 	存档已保存
+[2023-06-27T17:03:46.842Z] debug: 	Generator: 4.3655 fuel left in slot 1
+[2023-06-27T17:03:46.842Z] debug: 	Water filter: 76.2482 filter left on slot 1
+[2023-06-27T17:03:46.911Z] info: 	存档已保存
+[2023-06-27T17:03:55.574Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:04:06.870Z] debug: 	Generator: 4.3509 fuel left in slot 1
+[2023-06-27T17:04:06.870Z] debug: 	Water filter: 76.1966 filter left on slot 1
+[2023-06-27T17:04:06.942Z] info: 	存档已保存
+[2023-06-27T17:04:07.593Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:04:25.456Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:04:25.457Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:04:26.914Z] debug: 	Generator: 4.3363 fuel left in slot 1
+[2023-06-27T17:04:26.915Z] debug: 	Water filter: 76.145 filter left on slot 1
+[2023-06-27T17:04:26.990Z] info: 	存档已保存
+[2023-06-27T17:04:28.706Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:04:46.943Z] debug: 	Generator: 4.3217 fuel left in slot 1
+[2023-06-27T17:04:46.943Z] debug: 	Water filter: 76.0934 filter left on slot 1
+[2023-06-27T17:04:47.007Z] info: 	存档已保存
+[2023-06-27T17:05:06.972Z] debug: 	Generator: 4.3071 fuel left in slot 1
+[2023-06-27T17:05:06.973Z] debug: 	Water filter: 76.0418 filter left on slot 1
+[2023-06-27T17:05:07.262Z] info: 	存档已保存
+[2023-06-27T17:05:25.457Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:05:25.458Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:05:26.988Z] debug: 	Generator: 4.2925 fuel left in slot 1
+[2023-06-27T17:05:26.988Z] debug: 	Water filter: 75.9902 filter left on slot 1
+[2023-06-27T17:05:27.055Z] info: 	存档已保存
+[2023-06-27T17:05:42.004Z] debug: 	Generator: 4.2779 fuel left in slot 1
+[2023-06-27T17:05:42.005Z] debug: 	Water filter: 75.9489 filter left on slot 1
+[2023-06-27T17:05:47.085Z] info: 	存档已保存
+[2023-06-27T17:06:02.028Z] debug: 	Generator: 4.2633 fuel left in slot 1
+[2023-06-27T17:06:02.028Z] debug: 	Water filter: 75.8973 filter left on slot 1
+[2023-06-27T17:06:07.095Z] info: 	存档已保存
+[2023-06-27T17:06:22.066Z] debug: 	Generator: 4.2487 fuel left in slot 1
+[2023-06-27T17:06:22.067Z] debug: 	Water filter: 75.8457 filter left on slot 1
+[2023-06-27T17:06:25.460Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:06:25.462Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:06:27.141Z] info: 	存档已保存
+[2023-06-27T17:06:42.089Z] debug: 	Generator: 4.2341 fuel left in slot 1
+[2023-06-27T17:06:42.089Z] debug: 	Water filter: 75.7941 filter left on slot 1
+[2023-06-27T17:06:47.451Z] info: 	存档已保存
+[2023-06-27T17:06:48.765Z] info: 	[客户端请求] /client/game/keepalive
+[2023-06-27T17:07:02.129Z] debug: 	Generator: 4.2195 fuel left in slot 1
+[2023-06-27T17:07:02.129Z] debug: 	Water filter: 75.7425 filter left on slot 1
+[2023-06-27T17:07:07.208Z] info: 	存档已保存
+[2023-06-27T17:07:22.167Z] debug: 	Generator: 4.2049 fuel left in slot 1
+[2023-06-27T17:07:22.167Z] debug: 	Water filter: 75.6909 filter left on slot 1
+[2023-06-27T17:07:25.460Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:07:25.462Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:07:27.239Z] info: 	存档已保存
+[2023-06-27T17:07:42.174Z] debug: 	Generator: 4.1903 fuel left in slot 1
+[2023-06-27T17:07:42.174Z] debug: 	Water filter: 75.6393 filter left on slot 1
+[2023-06-27T17:07:47.247Z] info: 	存档已保存
+[2023-06-27T17:08:02.198Z] debug: 	Generator: 4.1757 fuel left in slot 1
+[2023-06-27T17:08:02.198Z] debug: 	Water filter: 75.5877 filter left on slot 1
+[2023-06-27T17:08:07.278Z] info: 	存档已保存
+[2023-06-27T17:08:14.085Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:08:22.242Z] debug: 	Generator: 4.1611 fuel left in slot 1
+[2023-06-27T17:08:22.242Z] debug: 	Water filter: 75.5361 filter left on slot 1
+[2023-06-27T17:08:25.459Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:08:25.461Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:08:27.487Z] info: 	存档已保存
+[2023-06-27T17:08:42.266Z] debug: 	Generator: 4.1465 fuel left in slot 1
+[2023-06-27T17:08:42.266Z] debug: 	Water filter: 75.4845 filter left on slot 1
+[2023-06-27T17:08:47.251Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:08:47.359Z] info: 	存档已保存
+[2023-06-27T17:09:02.301Z] debug: 	Generator: 4.1319 fuel left in slot 1
+[2023-06-27T17:09:02.301Z] debug: 	Water filter: 75.4329 filter left on slot 1
+[2023-06-27T17:09:07.377Z] info: 	存档已保存
+[2023-06-27T17:09:14.355Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:09:22.340Z] debug: 	Generator: 4.1173 fuel left in slot 1
+[2023-06-27T17:09:22.341Z] debug: 	Water filter: 75.3813 filter left on slot 1
+[2023-06-27T17:09:25.458Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:09:25.460Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:09:27.416Z] info: 	存档已保存
+[2023-06-27T17:09:42.362Z] debug: 	Generator: 4.1027 fuel left in slot 1
+[2023-06-27T17:09:42.364Z] debug: 	Water filter: 75.3297 filter left on slot 1
+[2023-06-27T17:09:47.438Z] info: 	存档已保存
+[2023-06-27T17:09:47.675Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:10:02.394Z] debug: 	Generator: 4.0881 fuel left in slot 1
+[2023-06-27T17:10:02.394Z] debug: 	Water filter: 75.2781 filter left on slot 1
+[2023-06-27T17:10:07.647Z] info: 	存档已保存
+[2023-06-27T17:10:11.757Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:10:22.408Z] debug: 	Generator: 4.0735 fuel left in slot 1
+[2023-06-27T17:10:22.408Z] debug: 	Water filter: 75.2265 filter left on slot 1
+[2023-06-27T17:10:25.459Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:10:25.461Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:10:27.486Z] info: 	存档已保存
+[2023-06-27T17:10:42.428Z] debug: 	Generator: 4.0589 fuel left in slot 1
+[2023-06-27T17:10:42.428Z] debug: 	Water filter: 75.1749 filter left on slot 1
+[2023-06-27T17:10:47.504Z] info: 	存档已保存
+[2023-06-27T17:11:02.468Z] debug: 	Generator: 4.0443 fuel left in slot 1
+[2023-06-27T17:11:02.468Z] debug: 	Water filter: 75.1233 filter left on slot 1
+[2023-06-27T17:11:07.553Z] info: 	存档已保存
+[2023-06-27T17:11:22.506Z] debug: 	Generator: 4.0297 fuel left in slot 1
+[2023-06-27T17:11:22.506Z] debug: 	Water filter: 75.0717 filter left on slot 1
+[2023-06-27T17:11:25.461Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:11:25.462Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:11:27.585Z] info: 	存档已保存
+[2023-06-27T17:11:42.536Z] debug: 	Generator: 4.0151 fuel left in slot 1
+[2023-06-27T17:11:42.536Z] debug: 	Water filter: 75.0201 filter left on slot 1
+[2023-06-27T17:11:47.806Z] info: 	存档已保存
+[2023-06-27T17:11:50.956Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:12:02.571Z] debug: 	Generator: 4.0005 fuel left in slot 1
+[2023-06-27T17:12:02.572Z] debug: 	Water filter: 74.9685 filter left on slot 1
+[2023-06-27T17:12:07.633Z] info: 	存档已保存
+[2023-06-27T17:12:21.048Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:12:22.597Z] debug: 	Generator: 3.9859 fuel left in slot 1
+[2023-06-27T17:12:22.597Z] debug: 	Water filter: 74.9169 filter left on slot 1
+[2023-06-27T17:12:24.044Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:12:25.455Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:12:25.458Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:12:27.670Z] info: 	存档已保存
+[2023-06-27T17:12:42.639Z] debug: 	Generator: 3.9713 fuel left in slot 1
+[2023-06-27T17:12:42.639Z] debug: 	Water filter: 74.8653 filter left on slot 1
+[2023-06-27T17:12:47.713Z] info: 	存档已保存
+[2023-06-27T17:12:48.209Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:12:54.289Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:13:02.667Z] debug: 	Generator: 3.9567 fuel left in slot 1
+[2023-06-27T17:13:02.668Z] debug: 	Water filter: 74.8137 filter left on slot 1
+[2023-06-27T17:13:07.744Z] info: 	存档已保存
+[2023-06-27T17:13:22.705Z] debug: 	Generator: 3.9421 fuel left in slot 1
+[2023-06-27T17:13:22.706Z] debug: 	Water filter: 74.7621 filter left on slot 1
+[2023-06-27T17:13:25.474Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:13:25.476Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:13:27.969Z] info: 	存档已保存
+[2023-06-27T17:13:42.755Z] debug: 	Generator: 3.9275 fuel left in slot 1
+[2023-06-27T17:13:42.755Z] debug: 	Water filter: 74.7105 filter left on slot 1
+[2023-06-27T17:13:47.833Z] info: 	存档已保存
+[2023-06-27T17:14:02.782Z] debug: 	Generator: 3.9129 fuel left in slot 1
+[2023-06-27T17:14:02.782Z] debug: 	Water filter: 74.6589 filter left on slot 1
+[2023-06-27T17:14:07.858Z] info: 	存档已保存
+[2023-06-27T17:14:22.806Z] debug: 	Generator: 3.8983 fuel left in slot 1
+[2023-06-27T17:14:22.806Z] debug: 	Water filter: 74.6073 filter left on slot 1
+[2023-06-27T17:14:25.471Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:14:25.473Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:14:27.923Z] info: 	存档已保存
+[2023-06-27T17:14:31.480Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:14:42.848Z] debug: 	Generator: 3.8837 fuel left in slot 1
+[2023-06-27T17:14:42.849Z] debug: 	Water filter: 74.5557 filter left on slot 1
+[2023-06-27T17:14:43.783Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:14:47.936Z] info: 	存档已保存
+[2023-06-27T17:15:02.888Z] debug: 	Generator: 3.8691 fuel left in slot 1
+[2023-06-27T17:15:02.888Z] debug: 	Water filter: 74.5041 filter left on slot 1
+[2023-06-27T17:15:08.161Z] info: 	存档已保存
+[2023-06-27T17:15:22.924Z] debug: 	Generator: 3.8545 fuel left in slot 1
+[2023-06-27T17:15:22.924Z] debug: 	Water filter: 74.4525 filter left on slot 1
+[2023-06-27T17:15:25.461Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:15:25.463Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:15:27.995Z] info: 	存档已保存
+[2023-06-27T17:15:42.952Z] debug: 	Generator: 3.8399 fuel left in slot 1
+[2023-06-27T17:15:42.952Z] debug: 	Water filter: 74.4009 filter left on slot 1
+[2023-06-27T17:15:48.029Z] info: 	存档已保存
+[2023-06-27T17:16:02.973Z] debug: 	Generator: 3.8253 fuel left in slot 1
+[2023-06-27T17:16:02.973Z] debug: 	Water filter: 74.3493 filter left on slot 1
+[2023-06-27T17:16:08.111Z] info: 	存档已保存
+[2023-06-27T17:16:23.002Z] debug: 	Generator: 3.8107 fuel left in slot 1
+[2023-06-27T17:16:23.003Z] debug: 	Water filter: 74.2951 filter left on slot 1
+[2023-06-27T17:16:25.457Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:16:25.459Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:16:28.085Z] info: 	存档已保存
+[2023-06-27T17:16:43.020Z] debug: 	Generator: 3.7961 fuel left in slot 1
+[2023-06-27T17:16:43.020Z] debug: 	Water filter: 74.2435 filter left on slot 1
+[2023-06-27T17:16:48.292Z] info: 	存档已保存
+[2023-06-27T17:17:03.036Z] debug: 	Generator: 3.7815 fuel left in slot 1
+[2023-06-27T17:17:03.036Z] debug: 	Water filter: 74.1919 filter left on slot 1
+[2023-06-27T17:17:03.824Z] info: 	[客户端请求] /client/game/keepalive
+[2023-06-27T17:17:08.105Z] info: 	存档已保存
+[2023-06-27T17:17:23.084Z] debug: 	Generator: 3.7669 fuel left in slot 1
+[2023-06-27T17:17:23.085Z] debug: 	Water filter: 74.1403 filter left on slot 1
+[2023-06-27T17:17:25.459Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:17:25.461Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:17:28.174Z] info: 	存档已保存
+[2023-06-27T17:17:43.126Z] debug: 	Generator: 3.7523 fuel left in slot 1
+[2023-06-27T17:17:43.126Z] debug: 	Water filter: 74.0887 filter left on slot 1
+[2023-06-27T17:17:48.205Z] info: 	存档已保存
+[2023-06-27T17:18:03.160Z] debug: 	Generator: 3.7377 fuel left in slot 1
+[2023-06-27T17:18:03.160Z] debug: 	Water filter: 74.0371 filter left on slot 1
+[2023-06-27T17:18:08.229Z] info: 	存档已保存
+[2023-06-27T17:18:23.179Z] debug: 	Generator: 3.7231 fuel left in slot 1
+[2023-06-27T17:18:23.181Z] debug: 	Water filter: 73.9855 filter left on slot 1
+[2023-06-27T17:18:25.462Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:18:25.464Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:18:28.445Z] info: 	存档已保存
+[2023-06-27T17:18:41.741Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:18:43.208Z] debug: 	Generator: 3.7085 fuel left in slot 1
+[2023-06-27T17:18:43.208Z] debug: 	Water filter: 73.9339 filter left on slot 1
+[2023-06-27T17:18:48.269Z] info: 	存档已保存
+[2023-06-27T17:19:03.235Z] debug: 	Generator: 3.6939 fuel left in slot 1
+[2023-06-27T17:19:03.236Z] debug: 	Water filter: 73.8823 filter left on slot 1
+[2023-06-27T17:19:08.309Z] info: 	存档已保存
+[2023-06-27T17:19:23.260Z] debug: 	Generator: 3.6793 fuel left in slot 1
+[2023-06-27T17:19:23.260Z] debug: 	Water filter: 73.8307 filter left on slot 1
+[2023-06-27T17:19:25.465Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:19:25.467Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:19:28.333Z] info: 	存档已保存
+[2023-06-27T17:19:43.296Z] debug: 	Generator: 3.6647 fuel left in slot 1
+[2023-06-27T17:19:43.296Z] debug: 	Water filter: 73.7791 filter left on slot 1
+[2023-06-27T17:19:48.367Z] info: 	存档已保存
+[2023-06-27T17:20:03.316Z] debug: 	Generator: 3.6501 fuel left in slot 1
+[2023-06-27T17:20:03.316Z] debug: 	Water filter: 73.7275 filter left on slot 1
+[2023-06-27T17:20:08.656Z] info: 	存档已保存
+[2023-06-27T17:20:17.894Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:20:20.409Z] info: 	[客户端请求] /singleplayer/settings/bot/getBotBehaviours/
+[2023-06-27T17:20:20.876Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:20:23.348Z] debug: 	Generator: 3.6355 fuel left in slot 1
+[2023-06-27T17:20:23.348Z] debug: 	Water filter: 73.6759 filter left on slot 1
+[2023-06-27T17:20:25.462Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:20:25.463Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:20:28.413Z] info: 	存档已保存
+[2023-06-27T17:20:43.369Z] debug: 	Generator: 3.6209 fuel left in slot 1
+[2023-06-27T17:20:43.369Z] debug: 	Water filter: 73.6243 filter left on slot 1
+[2023-06-27T17:20:48.453Z] info: 	存档已保存
+[2023-06-27T17:21:03.391Z] debug: 	Generator: 3.6063 fuel left in slot 1
+[2023-06-27T17:21:03.391Z] debug: 	Water filter: 73.5727 filter left on slot 1
+[2023-06-27T17:21:08.463Z] info: 	存档已保存
+[2023-06-27T17:21:12.227Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-27T17:21:23.431Z] debug: 	Generator: 3.5917 fuel left in slot 1
+[2023-06-27T17:21:23.431Z] debug: 	Water filter: 73.5211 filter left on slot 1
+[2023-06-27T17:21:25.458Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:21:25.461Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:21:28.518Z] info: 	存档已保存
+[2023-06-27T17:21:43.468Z] debug: 	Generator: 3.5771 fuel left in slot 1
+[2023-06-27T17:21:43.468Z] debug: 	Water filter: 73.4695 filter left on slot 1
+[2023-06-27T17:21:48.725Z] info: 	存档已保存
+[2023-06-27T17:22:03.501Z] debug: 	Generator: 3.5625 fuel left in slot 1
+[2023-06-27T17:22:03.501Z] debug: 	Water filter: 73.4179 filter left on slot 1
+[2023-06-27T17:22:08.574Z] info: 	存档已保存
+[2023-06-27T17:22:23.547Z] debug: 	Generator: 3.5479 fuel left in slot 1
+[2023-06-27T17:22:23.547Z] debug: 	Water filter: 73.3663 filter left on slot 1
+[2023-06-27T17:22:25.460Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:22:25.461Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:22:28.621Z] info: 	存档已保存
+[2023-06-27T17:22:32.068Z] info: 	[客户端请求] /raid/profile/save
+[2023-06-27T17:22:32.132Z] debug: 	Updated quests values: (Success: 167 times), (AvailableForStart: 58 times), (Fail: 11 times), (Started: 65 times), (Expired: 1 times), (AvailableForFinish: 1 times)
+[2023-06-27T17:22:32.561Z] info: 	[客户端请求] /client/match/offline/end
+[2023-06-27T17:22:33.332Z] info: 	[WS] 玩家：f2c415cacdcc626156b908aa已连接
+[2023-06-27T17:22:41.409Z] info: 	[客户端请求] /client/game/profile/list
+[2023-06-27T17:22:42.137Z] info: 	[客户端请求] /client/game/profile/select
+[2023-06-27T17:22:42.152Z] info: 	[客户端请求] /client/profile/status
+[2023-06-27T17:22:42.164Z] info: 	[客户端请求] /client/quest/list
+[2023-06-27T17:22:43.030Z] info: 	[客户端请求] /client/repeatalbeQuests/activityPeriods
+[2023-06-27T17:22:43.030Z] debug: 	[Quest Check] Daily quests are still valid.
+[2023-06-27T17:22:43.031Z] debug: 	[Quest Check] Weekly quests are still valid.
+[2023-06-27T17:22:43.031Z] debug: 	[Quest Check] Daily_Savage quests are still valid.
+[2023-06-27T17:22:43.575Z] debug: 	Generator: 3.5333 fuel left in slot 1
+[2023-06-27T17:22:43.575Z] debug: 	Water filter: 73.3147 filter left on slot 1
+[2023-06-27T17:22:48.646Z] info: 	存档已保存
+[2023-06-27T17:22:53.714Z] info: 	[客户端请求] /client/items
+[2023-06-27T17:22:58.624Z] info: 	[客户端请求] /client/customization
+[2023-06-27T17:22:58.792Z] info: 	[客户端请求] /client/globals
+[2023-06-27T17:22:59.159Z] info: 	[客户端请求] /client/trading/api/traderSettings
+[2023-06-27T17:22:59.226Z] info: 	[客户端请求] /client/settings
+[2023-06-27T17:22:59.293Z] info: 	[客户端请求] /client/game/profile/list
+[2023-06-27T17:23:00.027Z] info: 	[客户端请求] /client/game/profile/select
+[2023-06-27T17:23:00.094Z] info: 	[客户端请求] /client/profile/status
+[2023-06-27T17:23:00.144Z] info: 	[客户端请求] /client/weather
+[2023-06-27T17:23:00.161Z] info: 	[客户端请求] /client/locations
+[2023-06-27T17:23:00.979Z] info: 	[客户端请求] /client/handbook/templates
+[2023-06-27T17:23:01.928Z] info: 	[客户端请求] /client/hideout/areas
+[2023-06-27T17:23:02.046Z] info: 	[客户端请求] /client/hideout/qte/list
+[2023-06-27T17:23:02.113Z] info: 	[客户端请求] /client/hideout/settings
+[2023-06-27T17:23:02.179Z] info: 	[客户端请求] /client/hideout/production/recipes
+[2023-06-27T17:23:02.313Z] info: 	[客户端请求] /client/hideout/production/scavcase/recipes
+[2023-06-27T17:23:02.367Z] info: 	[客户端请求] /client/handbook/builds/my/list
+[2023-06-27T17:23:03.626Z] debug: 	Generator: 3.5187 fuel left in slot 1
+[2023-06-27T17:23:03.626Z] debug: 	Water filter: 73.2631 filter left on slot 1
+[2023-06-27T17:23:06.548Z] info: 	[客户端请求] /client/friend/request/list/inbox
+[2023-06-27T17:23:06.549Z] info: 	[客户端请求] /client/profile/status
+[2023-06-27T17:23:06.561Z] info: 	[客户端请求] /client/notifier/channel/create
+[2023-06-27T17:23:06.561Z] info: 	[客户端请求] /client/friend/request/list/outbox
+[2023-06-27T17:23:06.571Z] info: 	[客户端请求] /client/friend/list
+[2023-06-27T17:23:06.582Z] info: 	[客户端请求] /client/trading/customization/storage
+[2023-06-27T17:23:06.582Z] info: 	[客户端请求] /client/mail/dialog/list
+[2023-06-27T17:23:06.617Z] info: 	[WS] 玩家：f2c415cacdcc626156b908aa已连接
+[2023-06-27T17:23:06.621Z] info: 	[客户端请求] /client/match/group/current
+[2023-06-27T17:23:06.621Z] info: 	[客户端请求] /client/server/list
+[2023-06-27T17:23:06.622Z] info: 	[客户端请求] /client/quest/list
+[2023-06-27T17:23:07.466Z] info: 	[客户端请求] /client/repeatalbeQuests/activityPeriods
+[2023-06-27T17:23:07.466Z] debug: 	[Quest Check] Daily quests are still valid.
+[2023-06-27T17:23:07.466Z] debug: 	[Quest Check] Weekly quests are still valid.
+[2023-06-27T17:23:07.466Z] debug: 	[Quest Check] Daily_Savage quests are still valid.
+[2023-06-27T17:23:08.693Z] info: 	存档已保存
+[2023-06-27T17:23:10.251Z] info: 	[客户端请求] /client/checkVersion
+[2023-06-27T17:23:10.787Z] info: 	[客户端请求] /client/items/prices/5935c25fb3acc3127c3d8cd9
+[2023-06-27T17:23:10.790Z] info: 	[客户端请求] /player/health/sync
+[2023-06-27T17:23:10.856Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[2023-06-27T17:23:14.362Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:23:14.362Z] debug: 	event: QuestComplete
+[2023-06-27T17:23:14.362Z] debug: 	QuestComplete
+[2023-06-27T17:23:14.367Z] debug: 	[WS] 信息发送成功
+[2023-06-27T17:23:19.479Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:23:19.479Z] debug: 	event: QuestAccept
+[2023-06-27T17:23:19.479Z] debug: 	QuestAccept
+[2023-06-27T17:23:19.480Z] warn: 	Unable to find desired locale file using locale zh from config/locale.json, falling back to 'en'
+[2023-06-27T17:23:19.480Z] debug: 	[WS] 信息发送成功
+[2023-06-27T17:23:22.028Z] info: 	[客户端请求] /player/health/sync
+[2023-06-27T17:23:23.642Z] debug: 	Generator: 3.5041 fuel left in slot 1
+[2023-06-27T17:23:23.643Z] debug: 	Water filter: 73.2115 filter left on slot 1
+[2023-06-27T17:23:25.457Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:23:25.459Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:23:28.853Z] info: 	存档已保存
+[2023-06-27T17:23:32.028Z] info: 	[客户端请求] /player/health/sync
+[2023-06-27T17:23:42.027Z] info: 	[客户端请求] /player/health/sync
+[2023-06-27T17:23:43.675Z] debug: 	Generator: 3.4895 fuel left in slot 1
+[2023-06-27T17:23:43.675Z] debug: 	Water filter: 73.1599 filter left on slot 1
+[2023-06-27T17:23:48.752Z] info: 	存档已保存
+[2023-06-27T17:23:52.026Z] info: 	[客户端请求] /player/health/sync
+[2023-06-27T17:24:02.026Z] info: 	[客户端请求] /player/health/sync
+[2023-06-27T17:24:03.703Z] debug: 	Generator: 3.4749 fuel left in slot 1
+[2023-06-27T17:24:03.703Z] debug: 	Water filter: 73.1083 filter left on slot 1
+[2023-06-27T17:24:08.481Z] info: 	[客户端请求] /client/mail/dialog/view
+[2023-06-27T17:24:08.767Z] info: 	存档已保存
+[2023-06-27T17:24:09.230Z] info: 	[客户端请求] /client/mail/dialog/view
+[2023-06-27T17:24:10.050Z] info: 	[客户端请求] /client/mail/dialog/getAllAttachments
+[2023-06-27T17:24:12.331Z] info: 	[客户端请求] /player/health/sync
+[2023-06-27T17:24:12.778Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[2023-06-27T17:24:12.792Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:24:12.793Z] debug: 	event: Move
+[2023-06-27T17:24:12.793Z] debug: 	event: Merge
+[2023-06-27T17:24:12.793Z] debug: 	event: Merge
+[2023-06-27T17:24:12.794Z] debug: 	event: Merge
+[2023-06-27T17:24:14.399Z] info: 	[客户端请求] /client/mail/dialog/view
+[2023-06-27T17:24:15.593Z] info: 	[客户端请求] /client/mail/dialog/view
+[2023-06-27T17:24:16.358Z] info: 	[客户端请求] /client/mail/dialog/getAllAttachments
+[2023-06-27T17:24:19.507Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[2023-06-27T17:24:19.528Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:24:19.528Z] debug: 	event: Move
+[2023-06-27T17:24:19.529Z] debug: 	event: Move
+[2023-06-27T17:24:19.529Z] debug: 	event: Move
+[2023-06-27T17:24:23.735Z] debug: 	Generator: 3.4603 fuel left in slot 1
+[2023-06-27T17:24:23.736Z] debug: 	Water filter: 73.0567 filter left on slot 1
+[2023-06-27T17:24:23.912Z] info: 	[客户端请求] /player/health/sync
+[2023-06-27T17:24:25.462Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:24:25.465Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:24:28.815Z] info: 	存档已保存
+[2023-06-27T17:24:34.073Z] info: 	[客户端请求] /player/health/sync
+[2023-06-27T17:24:36.619Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-27T17:24:43.785Z] debug: 	Generator: 3.4457 fuel left in slot 1
+[2023-06-27T17:24:43.785Z] debug: 	Water filter: 73.0051 filter left on slot 1
+[2023-06-27T17:24:44.111Z] info: 	[客户端请求] /player/health/sync
+[2023-06-27T17:24:48.865Z] info: 	存档已保存
+[2023-06-27T17:24:54.076Z] info: 	[客户端请求] /player/health/sync
+[2023-06-27T17:25:03.815Z] debug: 	Generator: 3.4311 fuel left in slot 1
+[2023-06-27T17:25:03.815Z] debug: 	Water filter: 72.9535 filter left on slot 1
+[2023-06-27T17:25:09.045Z] info: 	存档已保存
+[2023-06-27T17:25:19.612Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:25:19.614Z] debug: 	event: Merge
+[2023-06-27T17:25:19.614Z] debug: 	event: Move
+[2023-06-27T17:25:19.615Z] debug: 	Move item: 7495a62d1c525cde83083cde from slotid: hideout to container: main
+[2023-06-27T17:25:19.615Z] debug: 	event: Remove
+[2023-06-27T17:25:19.615Z] debug: 	event: Transfer
+[2023-06-27T17:25:19.615Z] debug: 	event: Transfer
+[2023-06-27T17:25:19.615Z] debug: 	event: Move
+[2023-06-27T17:25:19.615Z] debug: 	Move item: 04ca624c2b7f209354632dae from slotid: main to container: main
+[2023-06-27T17:25:19.615Z] debug: 	event: Move
+[2023-06-27T17:25:19.615Z] debug: 	Move item: a5d8fdf54303fb3b8f1afbe8 from slotid: main to container: main
+[2023-06-27T17:25:19.615Z] debug: 	event: Move
+[2023-06-27T17:25:19.615Z] debug: 	Move item: 1afcba0969f572ce7f9f3054 from slotid: main to container: main
+[2023-06-27T17:25:19.615Z] debug: 	event: Transfer
+[2023-06-27T17:25:19.616Z] debug: 	event: Merge
+[2023-06-27T17:25:19.616Z] debug: 	event: Move
+[2023-06-27T17:25:19.616Z] debug: 	Move item: ae146b3eff483c0ae55944ac from slotid: mod_magazine to container: hideout
+[2023-06-27T17:25:19.616Z] debug: 	event: Move
+[2023-06-27T17:25:19.616Z] debug: 	Move item: ae146b3eff483c0ae55944ac from slotid: hideout to container: main
+[2023-06-27T17:25:19.616Z] debug: 	event: Move
+[2023-06-27T17:25:19.616Z] debug: 	Move item: 48d489a0a1fb4e1171b3505b from slotid: cartridges to container: main
+[2023-06-27T17:25:19.616Z] debug: 	event: Transfer
+[2023-06-27T17:25:19.616Z] debug: 	event: Move
+[2023-06-27T17:25:19.616Z] debug: 	Move item: ae146b3eff483c0ae55944ac from slotid: main to container: main
+[2023-06-27T17:25:19.616Z] debug: 	event: Move
+[2023-06-27T17:25:19.616Z] debug: 	Move item: e93f1ef7b5f5799071e0d60b from slotid: SecondPrimaryWeapon to container: hideout
+[2023-06-27T17:25:19.616Z] debug: 	event: Move
+[2023-06-27T17:25:19.616Z] debug: 	Move item: 5ed68dbafd2e49420f7296ba from slotid: 2 to container: hideout
+[2023-06-27T17:25:19.616Z] debug: 	event: Move
+[2023-06-27T17:25:19.616Z] debug: 	Move item: b683c2639a258cf6eab01b57 from slotid: 3 to container: hideout
+[2023-06-27T17:25:19.616Z] debug: 	event: Move
+[2023-06-27T17:25:19.616Z] debug: 	Move item: b6c6d3efc66fd1fd5b06039c from slotid: 3 to container: hideout
+[2023-06-27T17:25:19.617Z] debug: 	event: Move
+[2023-06-27T17:25:19.617Z] debug: 	Move item: 0656e43103f9eb73de733f77 from slotid: 3 to container: hideout
+[2023-06-27T17:25:19.617Z] debug: 	event: Move
+[2023-06-27T17:25:19.617Z] debug: 	Move item: f85485eeaf1a1661bc54fdba from slotid: 1 to container: hideout
+[2023-06-27T17:25:19.617Z] debug: 	event: Move
+[2023-06-27T17:25:19.617Z] debug: 	Move item: 077ba62e01eb0a956f1f7240 from slotid: 1 to container: hideout
+[2023-06-27T17:25:19.617Z] debug: 	event: Move
+[2023-06-27T17:25:19.617Z] debug: 	Move item: 00f1760e2aea0d6c3bea96b5 from slotid: main to container: main
+[2023-06-27T17:25:19.617Z] debug: 	event: Move
+[2023-06-27T17:25:19.617Z] debug: 	Move item: 00f1760e2aea0d6c3bea96b5 from slotid: main to container: main
+[2023-06-27T17:25:19.617Z] debug: 	event: Move
+[2023-06-27T17:25:19.617Z] debug: 	Move item: 186055bc7a7ded8e228ae435 from slotid: main to container: main
+[2023-06-27T17:25:19.617Z] debug: 	event: Move
+[2023-06-27T17:25:19.617Z] debug: 	Move item: ae5d6e22bbeb315c1a945b64 from slotid: main to container: main
+[2023-06-27T17:25:19.617Z] debug: 	event: Move
+[2023-06-27T17:25:19.617Z] debug: 	Move item: 186055bc7a7ded8e228ae435 from slotid: main to container: main
+[2023-06-27T17:25:19.617Z] debug: 	event: Move
+[2023-06-27T17:25:19.617Z] debug: 	Move item: ae5d6e22bbeb315c1a945b64 from slotid: main to container: main
+[2023-06-27T17:25:23.829Z] debug: 	Generator: 3.4165 fuel left in slot 1
+[2023-06-27T17:25:23.829Z] debug: 	Water filter: 72.9019 filter left on slot 1
+[2023-06-27T17:25:25.467Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:25:25.469Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:25:26.491Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[2023-06-27T17:25:28.905Z] info: 	存档已保存
+[2023-06-27T17:25:30.026Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:25:30.026Z] debug: 	event: QuestHandover
+[2023-06-27T17:25:30.026Z] debug: 	QuestHandover
+[2023-06-27T17:25:30.777Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:25:30.778Z] debug: 	event: QuestComplete
+[2023-06-27T17:25:30.778Z] debug: 	QuestComplete
+[2023-06-27T17:25:30.783Z] debug: 	[WS] 信息发送成功
+[2023-06-27T17:25:33.616Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:25:33.616Z] debug: 	event: QuestAccept
+[2023-06-27T17:25:33.616Z] debug: 	QuestAccept
+[2023-06-27T17:25:33.617Z] warn: 	Unable to find desired locale file using locale zh from config/locale.json, falling back to 'en'
+[2023-06-27T17:25:33.617Z] debug: 	[WS] 信息发送成功
+[2023-06-27T17:25:43.864Z] debug: 	Generator: 3.4019 fuel left in slot 1
+[2023-06-27T17:25:43.865Z] debug: 	Water filter: 72.8503 filter left on slot 1
+[2023-06-27T17:25:48.945Z] info: 	存档已保存
+[2023-06-27T17:26:03.884Z] debug: 	Generator: 3.3873 fuel left in slot 1
+[2023-06-27T17:26:03.884Z] debug: 	Water filter: 72.7987 filter left on slot 1
+[2023-06-27T17:26:06.632Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-27T17:26:08.961Z] info: 	存档已保存
+[2023-06-27T17:26:23.926Z] debug: 	Generator: 3.3727 fuel left in slot 1
+[2023-06-27T17:26:23.926Z] debug: 	Water filter: 72.7471 filter left on slot 1
+[2023-06-27T17:26:25.462Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:26:25.464Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:26:25.846Z] info: 	[客户端请求] /client/items/prices/5ac3b934156ae10c4430e83c
+[2023-06-27T17:26:25.970Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+[2023-06-27T17:26:28.999Z] info: 	存档已保存
+[2023-06-27T17:26:33.914Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+[2023-06-27T17:26:38.769Z] info: 	[客户端请求] /client/mail/dialog/read
+[2023-06-27T17:26:42.802Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:26:42.805Z] debug: 	event: Move
+[2023-06-27T17:26:42.805Z] debug: 	event: Move
+[2023-06-27T17:26:42.805Z] debug: 	event: Move
+[2023-06-27T17:26:42.805Z] debug: 	event: Move
+[2023-06-27T17:26:42.805Z] debug: 	event: Move
+[2023-06-27T17:26:42.805Z] debug: 	event: Move
+[2023-06-27T17:26:42.805Z] debug: 	event: Move
+[2023-06-27T17:26:42.806Z] debug: 	event: Move
+[2023-06-27T17:26:42.806Z] debug: 	event: Move
+[2023-06-27T17:26:42.806Z] debug: 	event: Move
+[2023-06-27T17:26:43.956Z] debug: 	Generator: 3.3581 fuel left in slot 1
+[2023-06-27T17:26:43.956Z] debug: 	Water filter: 72.6955 filter left on slot 1
+[2023-06-27T17:26:49.184Z] info: 	存档已保存
+[2023-06-27T17:26:49.184Z] info: 	[客户端请求] /client/items/prices/54cb57776803fa99248b456e
+[2023-06-27T17:26:49.268Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/54cb57776803fa99248b456e
+[2023-06-27T17:26:59.289Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:26:59.290Z] debug: 	event: TradingConfirm
+[2023-06-27T17:26:59.290Z] debug: 	Selling: 5ed68dbafd2e49420f7296ba
+[2023-06-27T17:27:03.993Z] debug: 	Generator: 3.3435 fuel left in slot 1
+[2023-06-27T17:27:03.993Z] debug: 	Water filter: 72.6439 filter left on slot 1
+[2023-06-27T17:27:09.071Z] info: 	存档已保存
+[2023-06-27T17:27:10.756Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:27:10.757Z] debug: 	event: Move
+[2023-06-27T17:27:10.757Z] debug: 	Move item: e1d16c21f6dfb63d6211c3fb from slotid: main to container: hideout
+[2023-06-27T17:27:10.757Z] debug: 	event: Move
+[2023-06-27T17:27:10.757Z] debug: 	Move item: 4531ad5a4529d70e0f982d71 from slotid: main to container: hideout
+[2023-06-27T17:27:10.757Z] debug: 	event: Move
+[2023-06-27T17:27:10.757Z] debug: 	Move item: b7189d65881e89c620b04b9e from slotid: main to container: hideout
+[2023-06-27T17:27:10.757Z] debug: 	event: Move
+[2023-06-27T17:27:10.757Z] debug: 	Move item: 7607d7bbe861873694a9b25f from slotid: main to container: hideout
+[2023-06-27T17:27:10.757Z] debug: 	event: Move
+[2023-06-27T17:27:10.757Z] debug: 	Move item: 10b876892fcba9cc99668a2b from slotid: main to container: hideout
+[2023-06-27T17:27:10.757Z] debug: 	event: Move
+[2023-06-27T17:27:10.757Z] debug: 	Move item: c3ec474f5cdcfef8f9c4feb8 from slotid: main to container: hideout
+[2023-06-27T17:27:10.757Z] debug: 	event: Move
+[2023-06-27T17:27:10.757Z] debug: 	Move item: 6e63d82668131fb32626a5ae from slotid: main to container: hideout
+[2023-06-27T17:27:10.758Z] debug: 	event: Move
+[2023-06-27T17:27:10.758Z] debug: 	Move item: 3f954bc758bd8be5f0bf6f2e from slotid: main to container: hideout
+[2023-06-27T17:27:10.758Z] debug: 	event: Move
+[2023-06-27T17:27:10.758Z] debug: 	Move item: 38f94cbdcd47ebdcacbc4fe6 from slotid: main to container: hideout
+[2023-06-27T17:27:10.758Z] debug: 	event: Move
+[2023-06-27T17:27:10.758Z] debug: 	Move item: c485371e8ae0c7cecb2570f0 from slotid: main to container: hideout
+[2023-06-27T17:27:10.758Z] debug: 	event: Move
+[2023-06-27T17:27:10.758Z] debug: 	Move item: 42cc2212d918e0d32cbee0bd from slotid: main to container: hideout
+[2023-06-27T17:27:10.758Z] debug: 	event: Move
+[2023-06-27T17:27:10.759Z] debug: 	Move item: d0d1bdd57073f39f989207c6 from slotid: main to container: hideout
+[2023-06-27T17:27:10.759Z] debug: 	event: Move
+[2023-06-27T17:27:10.759Z] debug: 	Move item: 3b3c9987b3ad83ec15acadac from slotid: main to container: hideout
+[2023-06-27T17:27:10.759Z] debug: 	event: Move
+[2023-06-27T17:27:10.759Z] debug: 	Move item: 2f68625096312e45c630420c from slotid: main to container: hideout
+[2023-06-27T17:27:10.759Z] debug: 	event: Move
+[2023-06-27T17:27:10.759Z] debug: 	Move item: e19e49d3a97457db07e64b8d from slotid: main to container: hideout
+[2023-06-27T17:27:10.759Z] debug: 	event: Move
+[2023-06-27T17:27:10.759Z] debug: 	Move item: 68d770a2719fa4bad25cde51 from slotid: main to container: hideout
+[2023-06-27T17:27:10.759Z] debug: 	event: Move
+[2023-06-27T17:27:10.759Z] debug: 	Move item: 3ea76fdfec7e8960da1c974b from slotid: main to container: hideout
+[2023-06-27T17:27:10.759Z] debug: 	event: Move
+[2023-06-27T17:27:10.759Z] debug: 	Move item: 159e055c23b849047d53dc5b from slotid: main to container: hideout
+[2023-06-27T17:27:10.759Z] debug: 	event: Move
+[2023-06-27T17:27:10.759Z] debug: 	Move item: 514546d8dc28df1055d30d7e from slotid: main to container: hideout
+[2023-06-27T17:27:11.395Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/54cb57776803fa99248b456e
+[2023-06-27T17:27:19.019Z] debug: 	Generator: 3.3289 fuel left in slot 1
+[2023-06-27T17:27:19.019Z] debug: 	Water filter: 72.6026 filter left on slot 1
+[2023-06-27T17:27:25.467Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:27:25.469Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:27:29.098Z] info: 	存档已保存
+[2023-06-27T17:27:29.773Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:27:29.773Z] debug: 	event: TradingConfirm
+[2023-06-27T17:27:29.774Z] debug: 	Selling: e1d16c21f6dfb63d6211c3fb
+[2023-06-27T17:27:29.774Z] debug: 	Selling: 4531ad5a4529d70e0f982d71
+[2023-06-27T17:27:29.774Z] debug: 	Selling: c485371e8ae0c7cecb2570f0
+[2023-06-27T17:27:29.774Z] debug: 	Selling: c3ec474f5cdcfef8f9c4feb8
+[2023-06-27T17:27:29.774Z] debug: 	Selling: bad5c2fefefc715c1ff0ec62
+[2023-06-27T17:27:29.774Z] debug: 	Selling: 3b3c9987b3ad83ec15acadac
+[2023-06-27T17:27:29.774Z] debug: 	Selling: 159e055c23b849047d53dc5b
+[2023-06-27T17:27:31.252Z] info: 	[客户端请求] /client/ragfair/find
+[2023-06-27T17:27:32.394Z] info: 	[客户端请求] /client/items/prices
+[2023-06-27T17:27:36.128Z] info: 	[客户端请求] /client/ragfair/itemMarketPrice
+[2023-06-27T17:27:36.632Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-27T17:27:39.057Z] debug: 	Generator: 3.3143 fuel left in slot 1
+[2023-06-27T17:27:39.057Z] debug: 	Water filter: 72.551 filter left on slot 1
+[2023-06-27T17:27:39.190Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:27:39.191Z] debug: 	event: RagFairAddOffer
+[2023-06-27T17:27:39.191Z] debug: 	Rolling for sell 1 items (chance: 24)
+[2023-06-27T17:27:39.191Z] debug: 	offer will sell at 1:28:25 AM
+[2023-06-27T17:27:39.191Z] debug: 	Tax Calculated to be: 1952
+[2023-06-27T17:27:39.212Z] debug: 	Items taken. Status OK.
+[2023-06-27T17:27:48.898Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-27T17:27:48.898Z] debug: 	event: TraderRepair
+[2023-06-27T17:27:48.899Z] debug: 	Adding 6.941574 to weapon_rifle_dynamics_704_762x39 using kit: false
+[2023-06-27T17:27:48.919Z] debug: 	Items taken. Status OK.
+[2023-06-27T17:27:49.145Z] info: 	存档已保存
+[2023-06-27T17:27:54.171Z] info: 	[客户端请求] /client/game/logout
+[2023-06-27T17:27:59.087Z] debug: 	Generator: 3.2997 fuel left in slot 1
+[2023-06-27T17:27:59.087Z] debug: 	Water filter: 72.4994 filter left on slot 1
+[2023-06-27T17:28:04.459Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-27T17:28:04.462Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-27T17:28:09.162Z] info: 	存档已保存
+[2023-06-27T17:28:19.122Z] debug: 	Generator: 3.2851 fuel left in slot 1
+[2023-06-27T17:28:19.122Z] debug: 	Water filter: 72.4478 filter left on slot 1
+[2023-06-27T17:28:29.346Z] warn: 	Unable to find desired locale file using locale zh from config/locale.json, falling back to 'en'
+[2023-06-27T17:28:29.412Z] info: 	存档已保存
+[2023-06-27T17:28:39.144Z] debug: 	Generator: 3.2705 fuel left in slot 1
+[2023-06-27T17:28:39.144Z] debug: 	Water filter: 72.3962 filter left on slot 1
+[2023-06-27T17:28:49.210Z] info: 	存档已保存
+[2023-06-27T17:28:59.162Z] debug: 	Generator: 3.2559 fuel left in slot 1
+[2023-06-27T17:28:59.162Z] debug: 	Water filter: 72.3446 filter left on slot 1
+[2023-06-27T17:29:06.639Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-27T17:29:06.639Z] debug: 	[WS] 接口已丢失，正在删除句柄
+[2023-06-27T17:29:09.242Z] info: 	存档已保存
+[2023-06-27T17:29:19.184Z] debug: 	Generator: 3.2413 fuel left in slot 1
+[2023-06-27T17:29:19.184Z] debug: 	Water filter: 72.293 filter left on slot 1
+[2023-06-27T17:29:29.274Z] info: 	存档已保存
+[2023-06-27T17:29:39.230Z] debug: 	Generator: 3.2267 fuel left in slot 1
+[2023-06-27T17:29:39.230Z] debug: 	Water filter: 72.2414 filter left on slot 1
+[2023-06-27T17:29:49.315Z] info: 	存档已保存
+[2023-06-27T17:29:59.266Z] debug: 	Generator: 3.2121 fuel left in slot 1
+[2023-06-27T17:29:59.266Z] debug: 	Water filter: 72.1898 filter left on slot 1
+[2023-06-27T17:30:09.513Z] info: 	存档已保存
+[2023-06-27T17:30:19.281Z] debug: 	Generator: 3.1975 fuel left in slot 1
+[2023-06-27T17:30:19.282Z] debug: 	Water filter: 72.1382 filter left on slot 1
+[2023-06-27T17:30:29.396Z] info: 	存档已保存
+[2023-06-27T17:30:39.300Z] debug: 	Generator: 3.1829 fuel left in slot 1
+[2023-06-27T17:30:39.300Z] debug: 	Water filter: 72.0866 filter left on slot 1
+[2023-06-27T17:30:49.386Z] info: 	存档已保存
+[2023-06-27T17:30:59.338Z] debug: 	Generator: 3.1683 fuel left in slot 1
+[2023-06-27T17:30:59.338Z] debug: 	Water filter: 72.035 filter left on slot 1
+[2023-06-27T17:31:09.425Z] info: 	存档已保存
+[2023-06-27T17:31:19.380Z] debug: 	Generator: 3.1537 fuel left in slot 1
+[2023-06-27T17:31:19.380Z] debug: 	Water filter: 71.9834 filter left on slot 1
+[2023-06-27T17:31:29.467Z] info: 	存档已保存
+[2023-06-27T17:31:39.413Z] debug: 	Generator: 3.1391 fuel left in slot 1
+[2023-06-27T17:31:39.414Z] debug: 	Water filter: 71.9318 filter left on slot 1
+[2023-06-27T17:31:49.648Z] info: 	存档已保存
+[2023-06-27T17:31:59.442Z] debug: 	Generator: 3.1245 fuel left in slot 1
+[2023-06-27T17:31:59.442Z] debug: 	Water filter: 71.8802 filter left on slot 1
+[2023-06-27T17:32:09.524Z] info: 	存档已保存
+[2023-06-27T17:32:19.472Z] debug: 	Generator: 3.1099 fuel left in slot 1
+[2023-06-27T17:32:19.472Z] debug: 	Water filter: 71.8286 filter left on slot 1
+[2023-06-27T17:32:29.548Z] info: 	存档已保存
+[2023-06-27T17:32:39.494Z] debug: 	Generator: 3.0953 fuel left in slot 1
+[2023-06-27T17:32:39.494Z] debug: 	Water filter: 71.777 filter left on slot 1
+[2023-06-27T17:32:49.579Z] info: 	存档已保存
+[2023-06-27T17:32:59.536Z] debug: 	Generator: 3.0807 fuel left in slot 1
+[2023-06-27T17:32:59.536Z] debug: 	Water filter: 71.7254 filter left on slot 1
+[2023-06-27T17:33:09.612Z] info: 	存档已保存
+[2023-06-27T17:33:19.555Z] debug: 	Generator: 3.0661 fuel left in slot 1
+[2023-06-27T17:33:19.555Z] debug: 	Water filter: 71.6738 filter left on slot 1
+[2023-06-27T17:33:29.794Z] info: 	存档已保存
+[2023-06-27T17:33:39.590Z] debug: 	Generator: 3.0515 fuel left in slot 1
+[2023-06-27T17:33:39.590Z] debug: 	Water filter: 71.6222 filter left on slot 1
+[2023-06-27T17:33:49.683Z] info: 	存档已保存
+[2023-06-27T17:33:59.633Z] debug: 	Generator: 3.0369 fuel left in slot 1
+[2023-06-27T17:33:59.634Z] debug: 	Water filter: 71.5706 filter left on slot 1
+[2023-06-27T17:34:09.718Z] info: 	存档已保存
+[2023-06-27T17:34:19.668Z] debug: 	Generator: 3.0223 fuel left in slot 1
+[2023-06-27T17:34:19.668Z] debug: 	Water filter: 71.519 filter left on slot 1
+[2023-06-27T17:34:29.741Z] info: 	存档已保存
+[2023-06-27T17:34:39.701Z] debug: 	Generator: 3.0077 fuel left in slot 1
+[2023-06-27T17:34:39.701Z] debug: 	Water filter: 71.4674 filter left on slot 1
+[2023-06-27T17:34:49.782Z] info: 	存档已保存
+[2023-06-27T17:34:59.727Z] debug: 	Generator: 2.9931 fuel left in slot 1
+[2023-06-27T17:34:59.727Z] debug: 	Water filter: 71.4158 filter left on slot 1
+[2023-06-27T17:35:09.953Z] info: 	存档已保存
+[2023-06-27T17:35:19.763Z] debug: 	Generator: 2.9785 fuel left in slot 1
+[2023-06-27T17:35:19.764Z] debug: 	Water filter: 71.3642 filter left on slot 1
+[2023-06-27T17:35:29.837Z] info: 	存档已保存
+[2023-06-27T17:35:39.780Z] debug: 	Generator: 2.9639 fuel left in slot 1
+[2023-06-27T17:35:39.780Z] debug: 	Water filter: 71.3126 filter left on slot 1
+[2023-06-27T17:35:49.862Z] info: 	存档已保存
+[2023-06-27T17:35:59.802Z] debug: 	Generator: 2.9493 fuel left in slot 1
+[2023-06-27T17:35:59.802Z] debug: 	Water filter: 71.261 filter left on slot 1
+[2023-06-27T17:36:09.886Z] info: 	存档已保存

@@ -1,0 +1,16 @@
+{
+  "FirstRun": true,
+  "DefaultLocale": "Chinese (Simplified)",
+  "LauncherStartGameAction": 0,
+  "UseAutoLogin": true,
+  "GamePath": "D:\\Client.0.13.0.4.23043",
+  "ExcludeFromCleanup": [],
+  "Server": {
+    "AutoLoginCreds": {
+      "Username": "gg",
+      "Password": ""
+    },
+    "Name": "SPT-AKI",
+    "Url": "http://127.0.0.1:6969"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "akiVersion": "3.5.6",
+    "projectName": "SPT-AKI",
+    "compatibleTarkovVersion": "0.13.0.23043",
+    "serverName": "SPT Server",
+    "profileSaveIntervalSeconds": 15,
+    "commit": "65ba6c1080f14754357baa1d12c354b84f07b11e"
+}

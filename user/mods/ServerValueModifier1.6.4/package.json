@@ -1,0 +1,9 @@
+{
+	"name": "SVM",
+	"author": "KMC, EmuRC-GhostFenixx",
+	"version": "1.6.4",
+	"akiVersion": "3.5.x",
+	"license": "CC BY-NC-ND",
+	"devdependencies": {},
+	"main": "src/SVM.js"
+}

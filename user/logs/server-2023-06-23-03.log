@@ -1,0 +1,423 @@
+[2023-06-22T19:00:09.082Z] info: 	[客户端请求] /player/health/sync
+[2023-06-22T19:00:17.430Z] info: 	存档已保存
+[2023-06-22T19:00:19.090Z] info: 	[客户端请求] /player/health/sync
+[2023-06-22T19:00:19.538Z] info: 	[客户端请求] /client/items/prices/5935c25fb3acc3127c3d8cd9
+[2023-06-22T19:00:19.652Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[2023-06-22T19:00:22.703Z] info: 	[客户端请求] /client/items/prices/5a7c2eca46aef81a7ca2145d
+[2023-06-22T19:00:22.796Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+[2023-06-22T19:00:32.359Z] info: 	[客户端请求] /player/health/sync
+[2023-06-22T19:00:37.431Z] info: 	存档已保存
+[2023-06-22T19:00:37.934Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:00:37.936Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:00:42.445Z] info: 	[客户端请求] /player/health/sync
+[2023-06-22T19:00:52.508Z] info: 	[客户端请求] /player/health/sync
+[2023-06-22T19:00:54.377Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-22T19:00:57.470Z] info: 	存档已保存
+[2023-06-22T19:01:02.765Z] info: 	[客户端请求] /player/health/sync
+[2023-06-22T19:01:12.841Z] info: 	[客户端请求] /player/health/sync
+[2023-06-22T19:01:17.496Z] info: 	存档已保存
+[2023-06-22T19:01:22.836Z] info: 	[客户端请求] /player/health/sync
+[2023-06-22T19:01:33.081Z] info: 	[客户端请求] /player/health/sync
+[2023-06-22T19:01:37.547Z] info: 	存档已保存
+[2023-06-22T19:01:37.925Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:01:37.926Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:01:55.889Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:01:55.891Z] debug: 	event: Move
+[2023-06-22T19:01:55.892Z] debug: 	Move item: 098add99ff22b2f8ffe6632d from slotid: SecondPrimaryWeapon to container: hideout
+[2023-06-22T19:01:55.892Z] debug: 	event: Eat
+[2023-06-22T19:01:55.892Z] debug: 	event: Transfer
+[2023-06-22T19:01:55.892Z] debug: 	event: Merge
+[2023-06-22T19:01:55.892Z] debug: 	event: Transfer
+[2023-06-22T19:01:55.892Z] debug: 	event: Move
+[2023-06-22T19:01:55.892Z] debug: 	Move item: 1b5fcf725097b8f366700fcc from slotid: 2 to container: main
+[2023-06-22T19:01:55.892Z] debug: 	event: Move
+[2023-06-22T19:01:55.892Z] debug: 	Move item: 9ed3910e4bbdf94257036f6a from slotid: 3 to container: main
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: 700fa544ee9f0d7ffccf91dc from slotid: 4 to container: hideout
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: d3213fbeced6e8943529f6fc from slotid: 3 to container: hideout
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: a97f67ff0ca45352b742c9bf from slotid: main to container: hideout
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: b3fde2d3f63ea3eeb28219b9 from slotid: Headwear to container: main
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: e82de68ec84f2dac36fe878d from slotid: Earpiece to container: hideout
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: b3fde2d3f63ea3eeb28219b9 from slotid: main to container: hideout
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: 34d2fd8add883f6ab88c1af7 from slotid: main to container: hideout
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: d74556a996913e2252750b82 from slotid: main to container: main
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: 3976d4e96d66e65ac1bd9847 from slotid: main to container: main
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: f0238bc0a84dd81d2f591f61 from slotid: main to container: hideout
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: ba71c5932af77041ad448a56 from slotid: main to container: hideout
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: 558ccd7453f330c51ca828af from slotid: main to container: hideout
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: 530ac880f89da8b010d14769 from slotid: main to container: hideout
+[2023-06-22T19:01:55.893Z] debug: 	event: Move
+[2023-06-22T19:01:55.893Z] debug: 	Move item: 625f878b30cadbcc62d1351e from slotid: main to container: hideout
+[2023-06-22T19:01:55.894Z] debug: 	event: Move
+[2023-06-22T19:01:55.894Z] debug: 	Move item: 8f7fa1ca42f999921cb9d425 from slotid: main to container: hideout
+[2023-06-22T19:01:55.894Z] debug: 	event: Move
+[2023-06-22T19:01:55.894Z] debug: 	Move item: 710b08944a34d0ecf3f557e3 from slotid: main to container: hideout
+[2023-06-22T19:01:55.894Z] debug: 	event: Move
+[2023-06-22T19:01:55.894Z] debug: 	Move item: ef219dead93fc0504b1d9ec1 from slotid: main to container: hideout
+[2023-06-22T19:01:55.894Z] debug: 	event: Move
+[2023-06-22T19:01:55.894Z] debug: 	Move item: bfd93acdeb646f95a79192ea from slotid: 2 to container: 2
+[2023-06-22T19:01:55.894Z] debug: 	event: Move
+[2023-06-22T19:01:55.894Z] debug: 	Move item: 37612aebf450f861bce85983 from slotid: cartridges to container: 1
+[2023-06-22T19:01:57.585Z] info: 	存档已保存
+[2023-06-22T19:02:04.022Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:02:04.023Z] debug: 	event: Merge
+[2023-06-22T19:02:04.023Z] debug: 	event: Remove
+[2023-06-22T19:02:04.023Z] debug: 	event: Remove
+[2023-06-22T19:02:04.023Z] debug: 	event: Move
+[2023-06-22T19:02:04.023Z] debug: 	Move item: 37612aebf450f861bce85983 from slotid: 1 to container: main
+[2023-06-22T19:02:04.464Z] info: 	[客户端请求] /client/items/prices/54cb57776803fa99248b456e
+[2023-06-22T19:02:04.531Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/54cb57776803fa99248b456e
+[2023-06-22T19:02:16.100Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:02:16.101Z] debug: 	event: TradingConfirm
+[2023-06-22T19:02:16.103Z] debug: 	Selling: 700fa544ee9f0d7ffccf91dc
+[2023-06-22T19:02:16.103Z] debug: 	Selling: d3213fbeced6e8943529f6fc
+[2023-06-22T19:02:16.103Z] debug: 	Selling: 625f878b30cadbcc62d1351e
+[2023-06-22T19:02:16.103Z] debug: 	Selling: 530ac880f89da8b010d14769
+[2023-06-22T19:02:16.103Z] debug: 	Selling: ba71c5932af77041ad448a56
+[2023-06-22T19:02:16.103Z] debug: 	Selling: 558ccd7453f330c51ca828af
+[2023-06-22T19:02:16.103Z] debug: 	Selling: ef219dead93fc0504b1d9ec1
+[2023-06-22T19:02:16.103Z] debug: 	Selling: 8f7fa1ca42f999921cb9d425
+[2023-06-22T19:02:17.537Z] info: 	[客户端请求] /client/items/prices/579dc571d53a0658a154fbec
+[2023-06-22T19:02:17.594Z] info: 	存档已保存
+[2023-06-22T19:02:17.655Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/579dc571d53a0658a154fbec
+[2023-06-22T19:02:22.838Z] info: 	[客户端请求] /client/items/prices/579dc571d53a0658a154fbec
+[2023-06-22T19:02:22.911Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/579dc571d53a0658a154fbec
+[2023-06-22T19:02:24.382Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-22T19:02:28.880Z] info: 	[客户端请求] /client/items/prices/579dc571d53a0658a154fbec
+[2023-06-22T19:02:28.945Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/579dc571d53a0658a154fbec
+[2023-06-22T19:02:31.232Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:02:31.233Z] debug: 	event: TradingConfirm
+[2023-06-22T19:02:31.233Z] debug: 	Selling: 710b08944a34d0ecf3f557e3
+[2023-06-22T19:02:31.233Z] debug: 	Selling: a97f67ff0ca45352b742c9bf
+[2023-06-22T19:02:31.233Z] debug: 	Selling: 9021664dc8368442eb05001b
+[2023-06-22T19:02:31.234Z] debug: 	Selling: c61fe29ac67fb3a3cdb09dfb
+[2023-06-22T19:02:31.234Z] debug: 	Selling: 04169065b46a7834b90a36f9
+[2023-06-22T19:02:33.047Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:02:33.048Z] debug: 	event: TradingConfirm
+[2023-06-22T19:02:33.048Z] debug: 	Selling: f0238bc0a84dd81d2f591f61
+[2023-06-22T19:02:34.425Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:02:34.425Z] debug: 	event: TradingConfirm
+[2023-06-22T19:02:34.425Z] debug: 	Selling: b3fde2d3f63ea3eeb28219b9
+[2023-06-22T19:02:34.932Z] info: 	[客户端请求] /client/items/prices/579dc571d53a0658a154fbec
+[2023-06-22T19:02:35.000Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/579dc571d53a0658a154fbec
+[2023-06-22T19:02:36.563Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:02:36.564Z] debug: 	event: TradingConfirm
+[2023-06-22T19:02:36.564Z] debug: 	Selling: e82de68ec84f2dac36fe878d
+[2023-06-22T19:02:37.633Z] info: 	存档已保存
+[2023-06-22T19:02:37.933Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:02:37.934Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:02:39.369Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+[2023-06-22T19:02:43.980Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:02:43.981Z] debug: 	event: TradingConfirm
+[2023-06-22T19:02:43.981Z] debug: 	Selling: 098add99ff22b2f8ffe6632d
+[2023-06-22T19:02:57.692Z] info: 	存档已保存
+[2023-06-22T19:02:59.354Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9
+[2023-06-22T19:03:09.486Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:03:09.486Z] debug: 	event: Move
+[2023-06-22T19:03:09.487Z] debug: 	Move item: d1205d9be2055ef0e9a9a6ff from slotid: hideout to container: hideout
+[2023-06-22T19:03:09.487Z] debug: 	event: Move
+[2023-06-22T19:03:09.487Z] debug: 	Move item: 44dd0bb5278832432ced6c5b from slotid: hideout to container: hideout
+[2023-06-22T19:03:09.487Z] debug: 	event: Move
+[2023-06-22T19:03:09.487Z] debug: 	Move item: 3ac091128eb68cbbc842f997 from slotid: hideout to container: hideout
+[2023-06-22T19:03:09.487Z] debug: 	event: Move
+[2023-06-22T19:03:09.487Z] debug: 	Move item: 44dd0bb5278832432ced6c5b from slotid: hideout to container: hideout
+[2023-06-22T19:03:09.487Z] debug: 	event: Fold
+[2023-06-22T19:03:09.487Z] debug: 	event: Fold
+[2023-06-22T19:03:09.487Z] debug: 	event: Remove
+[2023-06-22T19:03:09.488Z] debug: 	event: TradingConfirm
+[2023-06-22T19:03:09.488Z] debug: 	Selling: bf7054a6bd986acbf4ae0324
+[2023-06-22T19:03:17.716Z] info: 	存档已保存
+[2023-06-22T19:03:31.659Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:03:31.660Z] debug: 	event: Move
+[2023-06-22T19:03:31.660Z] debug: 	Move item: 8d4e437fa6ef83b9db5e9150 from slotid: hideout to container: Earpiece
+[2023-06-22T19:03:31.660Z] debug: 	event: Remove
+[2023-06-22T19:03:31.660Z] debug: 	event: Move
+[2023-06-22T19:03:31.660Z] debug: 	Move item: cb36d8a126b40a385079386d from slotid: FaceCover to container: hideout
+[2023-06-22T19:03:31.660Z] debug: 	event: Move
+[2023-06-22T19:03:31.660Z] debug: 	Move item: 96662151aec878fc77cac4e2 from slotid: hideout to container: Eyewear
+[2023-06-22T19:03:31.660Z] debug: 	event: Move
+[2023-06-22T19:03:31.660Z] debug: 	Move item: 34d2fd8add883f6ab88c1af7 from slotid: hideout to container: Headwear
+[2023-06-22T19:03:32.540Z] info: 	[客户端请求] /client/items/prices/579dc571d53a0658a154fbec
+[2023-06-22T19:03:32.616Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/579dc571d53a0658a154fbec
+[2023-06-22T19:03:34.475Z] info: 	[客户端请求] /client/items/prices/5ac3b934156ae10c4430e83c
+[2023-06-22T19:03:34.544Z] info: 	[客户端请求] /client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+[2023-06-22T19:03:37.740Z] info: 	存档已保存
+[2023-06-22T19:03:37.766Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:03:37.767Z] debug: 	event: TradingConfirm
+[2023-06-22T19:03:37.767Z] debug: 	Selling: cb36d8a126b40a385079386d
+[2023-06-22T19:03:37.934Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:03:37.936Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:03:54.383Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-22T19:03:57.754Z] info: 	存档已保存
+[2023-06-22T19:04:12.972Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:04:12.973Z] debug: 	event: Move
+[2023-06-22T19:04:12.973Z] debug: 	Move item: 9e649bdf8427dc0f9eed99d5 from slotid: 1 to container: 7
+[2023-06-22T19:04:12.973Z] debug: 	event: Move
+[2023-06-22T19:04:12.973Z] debug: 	Move item: 6eb341c7c407c4daa3499f8d from slotid: 1 to container: 5
+[2023-06-22T19:04:12.973Z] debug: 	event: Move
+[2023-06-22T19:04:12.973Z] debug: 	Move item: 58e341d0652c4aed4cefcdf6 from slotid: main to container: main
+[2023-06-22T19:04:12.973Z] debug: 	event: Transfer
+[2023-06-22T19:04:12.973Z] debug: 	event: Move
+[2023-06-22T19:04:12.973Z] debug: 	Move item: d0b63c58c2c921c2d5d31156 from slotid: cartridges to container: 1
+[2023-06-22T19:04:12.973Z] debug: 	event: Move
+[2023-06-22T19:04:12.973Z] debug: 	Move item: d0b63c58c2c921c2d5d31156 from slotid: 1 to container: main
+[2023-06-22T19:04:12.973Z] debug: 	event: Move
+[2023-06-22T19:04:12.974Z] debug: 	Move item: 34f13a680b4d5ab9df557a1e from slotid: main to container: cartridges
+[2023-06-22T19:04:12.974Z] debug: 	event: Transfer
+[2023-06-22T19:04:12.975Z] debug: 	event: Move
+[2023-06-22T19:04:12.975Z] debug: 	Move item: d0b63c58c2c921c2d5d31156 from slotid: main to container: main
+[2023-06-22T19:04:12.976Z] debug: 	event: Move
+[2023-06-22T19:04:12.976Z] debug: 	Move item: 34f13a680b4d5ab9df557a1e from slotid: cartridges to container: 1
+[2023-06-22T19:04:12.976Z] debug: 	event: Move
+[2023-06-22T19:04:12.976Z] debug: 	Move item: aff44169b53f349ba0cf5391 from slotid: main to container: cartridges
+[2023-06-22T19:04:12.976Z] debug: 	event: Transfer
+[2023-06-22T19:04:12.976Z] debug: 	event: Transfer
+[2023-06-22T19:04:12.976Z] debug: 	event: Move
+[2023-06-22T19:04:12.976Z] debug: 	Move item: 34f13a680b4d5ab9df557a1e from slotid: 1 to container: 5
+[2023-06-22T19:04:16.816Z] info: 	[客户端请求] /singleplayer/settings/raid/menu
+[2023-06-22T19:04:17.356Z] info: 	[客户端请求] /client/insurance/items/list/cost
+[2023-06-22T19:04:17.796Z] info: 	存档已保存
+[2023-06-22T19:04:20.593Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:04:20.593Z] debug: 	event: Insure
+[2023-06-22T19:04:20.611Z] debug: 	Items taken. Status OK.
+[2023-06-22T19:04:23.189Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:04:23.189Z] debug: 	event: Insure
+[2023-06-22T19:04:23.206Z] debug: 	Items taken. Status OK.
+[2023-06-22T19:04:37.852Z] info: 	存档已保存
+[2023-06-22T19:04:37.933Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:04:37.935Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:04:39.153Z] info: 	[客户端请求] /client/location/getLocalloot
+[2023-06-22T19:04:39.271Z] succ: 	共生成了45个静态容器
+[2023-06-22T19:04:39.440Z] succ: 	共生成了21个动态物资
+[2023-06-22T19:04:39.441Z] succ: 	已生成factory4_day地图
+[2023-06-22T19:04:39.448Z] info: 	[客户端请求] /client/raid/configuration
+[2023-06-22T19:04:51.531Z] info: 	[客户端请求] /singleplayer/settings/bot/maxCap
+[2023-06-22T19:04:51.580Z] info: 	[客户端请求] /singleplayer/settings/bot/limit/assault
+[2023-06-22T19:04:51.581Z] info: 	[客户端请求] /singleplayer/settings/bot/limit/bossTagilla
+[2023-06-22T19:04:51.582Z] info: 	[客户端请求] /singleplayer/settings/bot/limit/sptBear
+[2023-06-22T19:04:51.583Z] info: 	[客户端请求] /singleplayer/settings/bot/limit/sptUsec
+[2023-06-22T19:04:51.610Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-22T19:04:51.618Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.618Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.618Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.618Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.618Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.618Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.618Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.619Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.619Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.620Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.620Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.620Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.620Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.620Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.620Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.620Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.620Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.620Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.620Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.621Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.621Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.621Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.621Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.621Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.621Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.621Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.621Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.621Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.621Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.621Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.622Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.622Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:51.623Z] debug: 	Missing item price for 6391fcf5744e45201147080f
+[2023-06-22T19:04:51.623Z] debug: 	Missing item price for 5449016a4bdc2d6f028b456f
+[2023-06-22T19:04:57.870Z] info: 	存档已保存
+[2023-06-22T19:05:01.628Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-22T19:05:17.901Z] info: 	存档已保存
+[2023-06-22T19:05:24.391Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-22T19:05:24.391Z] debug: 	[WS] 接口已丢失，正在删除句柄
+[2023-06-22T19:05:35.729Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-22T19:05:35.731Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-22T19:05:35.736Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-22T19:05:37.922Z] info: 	存档已保存
+[2023-06-22T19:05:37.924Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:05:37.926Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:05:38.279Z] info: 	[客户端请求] /singleplayer/settings/bot/getBotBehaviours/
+[2023-06-22T19:05:57.982Z] info: 	存档已保存
+[2023-06-22T19:06:02.746Z] info: 	[客户端请求] /client/game/bot/generate
+[2023-06-22T19:06:18.007Z] info: 	存档已保存
+[2023-06-22T19:06:32.416Z] info: 	[客户端请求] /client/match/offline/end
+[2023-06-22T19:06:37.519Z] info: 	[客户端请求] /raid/profile/save
+[2023-06-22T19:06:37.573Z] debug: 	Updated quests values: (Success: 146 times), (AvailableForStart: 41 times), (Fail: 10 times), (Started: 62 times), (Expired: 1 times)
+[2023-06-22T19:06:37.919Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:06:37.921Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:06:38.062Z] info: 	存档已保存
+[2023-06-22T19:06:38.565Z] info: 	[WS] 玩家：f2c415cacdcc626156b908aa已连接
+[2023-06-22T19:06:47.779Z] info: 	[客户端请求] /client/game/profile/list
+[2023-06-22T19:06:48.411Z] info: 	[客户端请求] /client/game/profile/select
+[2023-06-22T19:06:48.429Z] info: 	[客户端请求] /client/profile/status
+[2023-06-22T19:06:48.442Z] info: 	[客户端请求] /client/quest/list
+[2023-06-22T19:06:49.191Z] info: 	[客户端请求] /client/repeatalbeQuests/activityPeriods
+[2023-06-22T19:06:49.192Z] debug: 	[Quest Check] Daily quests are still valid.
+[2023-06-22T19:06:49.192Z] debug: 	[Quest Check] Weekly quests are still valid.
+[2023-06-22T19:06:49.192Z] debug: 	[Quest Check] Daily_Savage quests are still valid.
+[2023-06-22T19:06:58.086Z] info: 	存档已保存
+[2023-06-22T19:07:18.136Z] info: 	存档已保存
+[2023-06-22T19:07:37.924Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:07:37.926Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:07:38.128Z] info: 	存档已保存
+[2023-06-22T19:07:58.169Z] info: 	存档已保存
+[2023-06-22T19:07:59.500Z] info: 	[客户端请求] /client/items
+[2023-06-22T19:08:04.350Z] info: 	[客户端请求] /client/customization
+[2023-06-22T19:08:04.517Z] info: 	[客户端请求] /client/globals
+[2023-06-22T19:08:04.850Z] info: 	[客户端请求] /client/trading/api/traderSettings
+[2023-06-22T19:08:04.918Z] info: 	[客户端请求] /client/settings
+[2023-06-22T19:08:04.985Z] info: 	[客户端请求] /client/game/profile/list
+[2023-06-22T19:08:05.619Z] info: 	[客户端请求] /client/game/profile/select
+[2023-06-22T19:08:05.686Z] info: 	[客户端请求] /client/profile/status
+[2023-06-22T19:08:05.753Z] info: 	[客户端请求] /client/locations
+[2023-06-22T19:08:05.769Z] info: 	[客户端请求] /client/weather
+[2023-06-22T19:08:06.571Z] info: 	[客户端请求] /client/handbook/templates
+[2023-06-22T19:08:07.557Z] info: 	[客户端请求] /client/hideout/areas
+[2023-06-22T19:08:07.677Z] info: 	[客户端请求] /client/hideout/qte/list
+[2023-06-22T19:08:07.743Z] info: 	[客户端请求] /client/hideout/settings
+[2023-06-22T19:08:07.810Z] info: 	[客户端请求] /client/hideout/production/recipes
+[2023-06-22T19:08:07.944Z] info: 	[客户端请求] /client/hideout/production/scavcase/recipes
+[2023-06-22T19:08:08.011Z] info: 	[客户端请求] /client/handbook/builds/my/list
+[2023-06-22T19:08:08.565Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-22T19:08:08.566Z] debug: 	[WS] 接口已丢失，正在删除句柄
+[2023-06-22T19:08:15.093Z] info: 	[客户端请求] /client/profile/status
+[2023-06-22T19:08:15.094Z] info: 	[客户端请求] /client/friend/request/list/inbox
+[2023-06-22T19:08:15.103Z] info: 	[客户端请求] /client/notifier/channel/create
+[2023-06-22T19:08:15.104Z] info: 	[客户端请求] /client/trading/customization/storage
+[2023-06-22T19:08:15.105Z] info: 	[客户端请求] /client/friend/list
+[2023-06-22T19:08:15.105Z] info: 	[客户端请求] /client/friend/request/list/outbox
+[2023-06-22T19:08:15.106Z] info: 	[客户端请求] /client/mail/dialog/list
+[2023-06-22T19:08:15.127Z] info: 	[WS] 玩家：f2c415cacdcc626156b908aa已连接
+[2023-06-22T19:08:15.145Z] info: 	[客户端请求] /client/quest/list
+[2023-06-22T19:08:15.156Z] info: 	[客户端请求] /client/match/group/current
+[2023-06-22T19:08:15.156Z] info: 	[客户端请求] /client/server/list
+[2023-06-22T19:08:15.880Z] info: 	[客户端请求] /client/repeatalbeQuests/activityPeriods
+[2023-06-22T19:08:15.880Z] debug: 	[Quest Check] Daily quests are still valid.
+[2023-06-22T19:08:15.880Z] debug: 	[Quest Check] Weekly quests are still valid.
+[2023-06-22T19:08:15.880Z] debug: 	[Quest Check] Daily_Savage quests are still valid.
+[2023-06-22T19:08:18.167Z] info: 	存档已保存
+[2023-06-22T19:08:37.935Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:08:37.937Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:08:38.230Z] info: 	存档已保存
+[2023-06-22T19:08:42.548Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:08:42.549Z] debug: 	event: Move
+[2023-06-22T19:08:42.549Z] debug: 	Move item: 3e054dcd659a5bfa34c4acbf from slotid: hideout to container: hideout
+[2023-06-22T19:08:58.246Z] info: 	存档已保存
+[2023-06-22T19:09:18.297Z] info: 	存档已保存
+[2023-06-22T19:09:37.917Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:09:37.918Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:09:38.327Z] info: 	存档已保存
+[2023-06-22T19:09:42.550Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:09:42.552Z] debug: 	event: Move
+[2023-06-22T19:09:42.552Z] debug: 	Move item: 548678fc61b310611946e70a from slotid: hideout to container: hideout
+[2023-06-22T19:09:42.552Z] debug: 	event: Move
+[2023-06-22T19:09:42.553Z] debug: 	Move item: 6a57403b325272dd680009cf from slotid: hideout to container: hideout
+[2023-06-22T19:09:42.553Z] debug: 	event: Move
+[2023-06-22T19:09:42.553Z] debug: 	Move item: db41a7eca26517b316fd024e from slotid: hideout to container: mod_muzzle
+[2023-06-22T19:09:42.554Z] debug: 	event: Move
+[2023-06-22T19:09:42.554Z] debug: 	Move item: 84f539fe8f6b4caabd579f06 from slotid: mod_foregrip to container: hideout
+[2023-06-22T19:09:42.554Z] debug: 	event: Move
+[2023-06-22T19:09:42.554Z] debug: 	Move item: 548678fc61b310611946e70a from slotid: hideout to container: mod_foregrip
+[2023-06-22T19:09:42.554Z] debug: 	event: Move
+[2023-06-22T19:09:42.554Z] debug: 	Move item: fd91efb75d3b8db46af84808 from slotid: hideout to container: mod_tactical_001
+[2023-06-22T19:09:42.554Z] debug: 	event: Fold
+[2023-06-22T19:09:42.554Z] debug: 	event: Move
+[2023-06-22T19:09:42.554Z] debug: 	Move item: 6a57403b325272dd680009cf from slotid: hideout to container: hideout
+[2023-06-22T19:09:45.129Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-22T19:09:58.378Z] info: 	存档已保存
+[2023-06-22T19:10:03.079Z] info: 	[客户端请求] /client/mail/dialog/getAllAttachments
+[2023-06-22T19:10:03.475Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:10:03.476Z] debug: 	event: Move
+[2023-06-22T19:10:03.476Z] debug: 	Move item: 6a57403b325272dd680009cf from slotid: hideout to container: hideout
+[2023-06-22T19:10:03.476Z] debug: 	event: Move
+[2023-06-22T19:10:03.476Z] debug: 	Move item: 6a57403b325272dd680009cf from slotid: hideout to container: hideout
+[2023-06-22T19:10:12.826Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:10:12.827Z] debug: 	event: Move
+[2023-06-22T19:10:12.827Z] debug: 	event: Move
+[2023-06-22T19:10:12.827Z] debug: 	event: Move
+[2023-06-22T19:10:12.827Z] debug: 	event: Move
+[2023-06-22T19:10:18.425Z] info: 	存档已保存
+[2023-06-22T19:10:37.932Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:10:37.934Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:10:38.415Z] info: 	存档已保存
+[2023-06-22T19:10:58.431Z] info: 	存档已保存
+[2023-06-22T19:11:09.368Z] info: 	[客户端请求] /client/mail/dialog/getAllAttachments
+[2023-06-22T19:11:09.668Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:11:09.668Z] debug: 	event: Move
+[2023-06-22T19:11:09.669Z] debug: 	Move item: d6f353705761de0d717d6375 from slotid: hideout to container: FirstPrimaryWeapon
+[2023-06-22T19:11:09.669Z] debug: 	event: Move
+[2023-06-22T19:11:09.670Z] debug: 	Move item: 3b850f0477cd1d53ec824035 from slotid: hideout to container: Headwear
+[2023-06-22T19:11:09.670Z] debug: 	event: Move
+[2023-06-22T19:11:09.670Z] debug: 	Move item: 32888c2c1dbcca316c945631 from slotid: hideout to container: Earpiece
+[2023-06-22T19:11:09.670Z] debug: 	event: Move
+[2023-06-22T19:11:09.671Z] debug: 	Move item: 667e00388b84cb7122c52a5f from slotid: hideout to container: ArmorVest
+[2023-06-22T19:11:15.133Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-22T19:11:16.295Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:11:16.295Z] debug: 	event: Move
+[2023-06-22T19:11:16.296Z] debug: 	event: Move
+[2023-06-22T19:11:16.296Z] debug: 	event: Move
+[2023-06-22T19:11:18.482Z] info: 	存档已保存
+[2023-06-22T19:11:37.937Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:11:37.938Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:11:38.479Z] info: 	存档已保存
+[2023-06-22T19:11:38.811Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:11:38.812Z] debug: 	event: Move
+[2023-06-22T19:11:38.813Z] debug: 	Move item: dd6079e29a37efcb994a0da3 from slotid: hideout to container: TacticalVest
+[2023-06-22T19:11:38.813Z] debug: 	event: Move
+[2023-06-22T19:11:38.813Z] debug: 	Move item: 9254ab4f0dd2e0d99bb4ea47 from slotid: 2 to container: hideout
+[2023-06-22T19:11:38.813Z] debug: 	event: Move
+[2023-06-22T19:11:38.813Z] debug: 	Move item: d62230f4e64a9b2d6cbb150b from slotid: 1 to container: hideout
+[2023-06-22T19:11:38.813Z] debug: 	event: Move
+[2023-06-22T19:11:38.813Z] debug: 	Move item: d6f353705761de0d717d6375 from slotid: FirstPrimaryWeapon to container: hideout
+[2023-06-22T19:11:38.813Z] debug: 	event: Move
+[2023-06-22T19:11:38.813Z] debug: 	Move item: 6a57403b325272dd680009cf from slotid: hideout to container: FirstPrimaryWeapon
+[2023-06-22T19:11:38.813Z] debug: 	event: Move
+[2023-06-22T19:11:38.813Z] debug: 	Move item: 9254ab4f0dd2e0d99bb4ea47 from slotid: hideout to container: 1
+[2023-06-22T19:11:38.813Z] debug: 	event: Move
+[2023-06-22T19:11:38.813Z] debug: 	Move item: d62230f4e64a9b2d6cbb150b from slotid: hideout to container: 2
+[2023-06-22T19:11:38.813Z] debug: 	event: Move
+[2023-06-22T19:11:38.814Z] debug: 	Move item: c8ef2cede5d424f84aaa7663 from slotid: main to container: cartridges
+[2023-06-22T19:11:38.814Z] debug: 	event: Split
+[2023-06-22T19:11:56.422Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-06-22T19:11:56.422Z] debug: 	event: Move
+[2023-06-22T19:11:56.423Z] debug: 	Move item: 1f29a1d270bb1e832b0d635a from slotid: mod_magazine to container: hideout
+[2023-06-22T19:11:56.423Z] debug: 	event: Move
+[2023-06-22T19:11:56.423Z] debug: 	Move item: 9254ab4f0dd2e0d99bb4ea47 from slotid: 1 to container: mod_magazine
+[2023-06-22T19:11:56.424Z] info: 	[客户端请求] /client/checkVersion
+[2023-06-22T19:11:57.431Z] info: 	[客户端请求] /player/health/sync
+[2023-06-22T19:11:58.285Z] info: 	[客户端请求] /client/game/logout
+[2023-06-22T19:11:58.363Z] info: 	存档已保存
+[2023-06-22T19:12:09.938Z] info: 	[客户端请求] /launcher/profile/info
+[2023-06-22T19:12:09.942Z] info: 	[客户端请求] /launcher/server/version
+[2023-06-22T19:12:18.527Z] info: 	存档已保存
+[2023-06-22T19:12:38.586Z] info: 	存档已保存
+[2023-06-22T19:12:45.137Z] debug: 	[WS] 正在呼叫玩家：f2c415cacdcc626156b908aa
+[2023-06-22T19:12:45.138Z] debug: 	[WS] 接口已丢失，正在删除句柄
+[2023-06-22T19:12:58.583Z] info: 	存档已保存
+[2023-06-22T19:13:18.607Z] info: 	存档已保存
+[2023-06-22T19:13:38.639Z] info: 	存档已保存
+[2023-06-22T19:13:58.690Z] info: 	存档已保存
+[2023-06-22T19:14:18.712Z] info: 	存档已保存
+[2023-06-22T19:14:38.744Z] info: 	存档已保存
+[2023-06-22T19:14:58.785Z] info: 	存档已保存
+[2023-06-22T19:15:18.844Z] info: 	存档已保存
+[2023-06-22T19:15:38.851Z] info: 	存档已保存
+[2023-06-22T19:15:58.882Z] info: 	存档已保存
