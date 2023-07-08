@@ -128,5 +128,13 @@
 	"pmcresponse-victim_positive_18": "Enjoy my loot",
 	"pmcresponse-victim_positive_7": "That was fair, nice kill",
 	"pmcresponse-victim_positive_33": "Those were some solid-snake moves right there",
-	"pmcresponse-victim_positive_3": "Good kill"
+	"pmcresponse-victim_positive_3": "Good kill",
+	"baseclass-item_not_found": "Item %s not found in item base cache",
+	"bot-weapon_missing_mod_slot": "Slot: {{modSlot}}' does not exist for weapon: {{weaponId}} {{weaponName}} on {{botRole}}",
+	"pmcresponse-victim_positive_45": "Clean kill {{playerName}}, I was in cover but you found an angle",
+	"pmcresponse-victim_negative_9": "Good job sweatlord",
+	"pmcresponse-suffix_18": "guy",
+	"pmcresponse-victim_positive_38": "You were pulling some serious chad moves that raid",
+	"pmcresponse-suffix_11": "my guy",
+	"pmcresponse-killer_positive_9": "Well fought"
 }

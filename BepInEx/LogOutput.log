@@ -12,7 +12,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 6 plugins to load
+[Info   :   BepInEx] 7 plugins to load
 [Info   :   BepInEx] Loading [Configuration Manager 16.4.1]
 [Info   :   BepInEx] Loading [dvize.FUInertia 2.0.2]
 [Info   :ModulePatch] Enabled patch inertiaOnWeightUpdatedPatch
@@ -90,6 +90,122 @@
 [Info   :ModulePatch] Enabled patch LighthouseTransmitterPatch
 [Info   :ModulePatch] Enabled patch EmptyInfilFixPatch
 [Info   :AKI.Singleplayer] Completed: Aki.SinglePlayer
+[Info   :   BepInEx] Loading [RealismMod 1.0.0]
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/RealismMod/GetInfo
+[Info   :RequestHandler] Request was successful
+[Info   :ModulePatch] Enabled patch COIDeltaPatch
+[Info   :ModulePatch] Enabled patch TotalShotgunDispersionPatch
+[Info   :ModulePatch] Enabled patch GetDurabilityLossOnShotPatch
+[Info   :ModulePatch] Enabled patch AutoFireRatePatch
+[Info   :ModulePatch] Enabled patch SingleFireRatePatch
+[Info   :ModulePatch] Enabled patch ErgoDeltaPatch
+[Info   :ModulePatch] Enabled patch ErgoWeightPatch
+[Info   :ModulePatch] Enabled patch method_9Patch
+[Info   :ModulePatch] Enabled patch SyncWithCharacterSkillsPatch
+[Info   :ModulePatch] Enabled patch UpdateWeaponVariablesPatch
+[Info   :ModulePatch] Enabled patch SetAimingSlowdownPatch
+[Info   :ModulePatch] Enabled patch method_20Patch
+[Info   :ModulePatch] Enabled patch UpdateSwayFactorsPatch
+[Info   :ModulePatch] Enabled patch GetOverweightPatch
+[Info   :ModulePatch] Enabled patch SetOverweightPatch
+[Info   :ModulePatch] Enabled patch OnWeaponParametersChangedPatch
+[Info   :ModulePatch] Enabled patch ProcessPatch
+[Info   :ModulePatch] Enabled patch ShootPatch
+[Info   :ModulePatch] Enabled patch SetCurveParametersPatch
+[Info   :ModulePatch] Enabled patch AimingSensitivityPatch
+[Info   :ModulePatch] Enabled patch UpdateSensitivityPatch
+[Info   :ModulePatch] Enabled patch GetRotationMultiplierPatch
+[Info   :ModulePatch] Enabled patch SetAimingPatch
+[Info   :ModulePatch] Enabled patch ToggleAimPatch
+[Info   :ModulePatch] Enabled patch GetTotalMalfunctionChancePatch
+[Info   :ModulePatch] Enabled patch IsKnownMalfTypePatch
+[Info   :ModulePatch] Enabled patch CanStartReloadPatch
+[Info   :ModulePatch] Enabled patch ReloadMagPatch
+[Info   :ModulePatch] Enabled patch QuickReloadMagPatch
+[Info   :ModulePatch] Enabled patch ReloadWithAmmoPatch
+[Info   :ModulePatch] Enabled patch ReloadBarrelsPatch
+[Info   :ModulePatch] Enabled patch ReloadRevolverDrumPatch
+[Info   :ModulePatch] Enabled patch OnMagInsertedPatch
+[Info   :ModulePatch] Enabled patch SetMagTypeCurrentPatch
+[Info   :ModulePatch] Enabled patch SetMagTypeNewPatch
+[Info   :ModulePatch] Enabled patch SetMagInWeaponPatch
+[Info   :ModulePatch] Enabled patch RechamberSpeedPatch
+[Info   :ModulePatch] Enabled patch SetMalfRepairSpeedPatch
+[Info   :ModulePatch] Enabled patch SetBoltActionReloadPatch
+[Info   :ModulePatch] Enabled patch CheckChamberPatch
+[Info   :ModulePatch] Enabled patch SetSpeedParametersPatch
+[Info   :ModulePatch] Enabled patch CheckAmmoPatch
+[Info   :ModulePatch] Enabled patch SetHammerArmedPatch
+[Info   :ModulePatch] Enabled patch SetLauncherPatch
+[Info   :ModulePatch] Enabled patch CheckAmmoFirearmControllerPatch
+[Info   :ModulePatch] Enabled patch CheckChamberFirearmControllerPatch
+[Info   :ModulePatch] Enabled patch SetAnimatorAndProceduralValuesPatch
+[Info   :ModulePatch] Enabled patch OnItemAddedOrRemovedPatch
+[Info   :ModulePatch] Enabled patch SetWeaponLevelPatch
+[Info   :ModulePatch] Enabled patch ModConstructorPatch
+[Info   :ModulePatch] Enabled patch WeaponConstructorPatch
+[Info   :ModulePatch] Enabled patch HRecoilDisplayStringValuePatch
+[Info   :ModulePatch] Enabled patch HRecoilDisplayDeltaPatch
+[Info   :ModulePatch] Enabled patch VRecoilDisplayStringValuePatch
+[Info   :ModulePatch] Enabled patch VRecoilDisplayDeltaPatch
+[Info   :ModulePatch] Enabled patch ModVRecoilStatDisplayPatchFloat
+[Info   :ModulePatch] Enabled patch ModVRecoilStatDisplayPatchString
+[Info   :ModulePatch] Enabled patch ErgoDisplayDeltaPatch
+[Info   :ModulePatch] Enabled patch ErgoDisplayStringValuePatch
+[Info   :ModulePatch] Enabled patch COIDisplayDeltaPatch
+[Info   :ModulePatch] Enabled patch COIDisplayStringValuePatch
+[Info   :ModulePatch] Enabled patch FireRateDisplayStringValuePatch
+[Info   :ModulePatch] Enabled patch GetCachedReadonlyQualitiesPatch
+[Info   :ModulePatch] Enabled patch CenterOfImpactMOAPatch
+[Info   :ModulePatch] Enabled patch ModErgoStatDisplayPatch
+[Info   :ModulePatch] Enabled patch GetAttributeIconPatches
+[Info   :ModulePatch] Enabled patch HeadsetConstructorPatch
+[Info   :ModulePatch] Enabled patch AmmoDuraBurnDisplayPatch
+[Info   :ModulePatch] Enabled patch AmmoMalfChanceDisplayPatch
+[Info   :ModulePatch] Enabled patch BarrelModClassPatch
+[Info   :ModulePatch] Enabled patch GetTotalCenterOfImpactPatch
+[Info   :ModulePatch] Enabled patch CreateShotPatch
+[Info   :ModulePatch] Enabled patch ApplyDamagePatch
+[Info   :ModulePatch] Enabled patch DamageInfoPatch
+[Info   :ModulePatch] Enabled patch ApplyDamageInfoPatch
+[Info   :ModulePatch] Enabled patch SetPenetrationStatusPatch
+[Info   :ModulePatch] Enabled patch ApplyCorpseImpulsePatch
+[Info   :ModulePatch] Enabled patch ArmorClassDisplayPatch
+[Info   :ModulePatch] Enabled patch ArmorZoneBaseDisplayPatch
+[Info   :ModulePatch] Enabled patch ArmorZoneSringValueDisplayPatch
+[Info   :ModulePatch] Enabled patch IsShotDeflectedByHeavyArmorPatch
+[Info   :ModulePatch] Enabled patch IsPenetratedPatch
+[Info   :ModulePatch] Enabled patch ArmorComponentPatch
+[Info   :ModulePatch] Enabled patch RigConstructorPatch
+[Info   :ModulePatch] Enabled patch PlayerInitPatch
+[Info   :ModulePatch] Enabled patch ToggleHoldingBreathPatch
+[Info   :ModulePatch] Enabled patch SprintAccelerationPatch
+[Info   :ModulePatch] Enabled patch EnduranceSprintActionPatch
+[Info   :ModulePatch] Enabled patch EnduranceMovementActionPatch
+[Info   :ModulePatch] Enabled patch MaxWalkSpeedPatch
+[Info   :ModulePatch] Enabled patch VignettePatch
+[Info   :ModulePatch] Enabled patch UpdatePhonesPatch
+[Info   :ModulePatch] Enabled patch SetCompressorPatch
+[Info   :ModulePatch] Enabled patch RegisterShotPatch
+[Info   :ModulePatch] Enabled patch ExplosionPatch
+[Info   :ModulePatch] Enabled patch GrenadeClassContusionPatch
+[Info   :ModulePatch] Enabled patch PlayerLateUpdatePatch
+[Info   :ModulePatch] Enabled patch ApplyComplexRotationPatch
+[Info   :ModulePatch] Enabled patch ApplySimpleRotationPatch
+[Info   :ModulePatch] Enabled patch InitTransformsPatch
+[Info   :ModulePatch] Enabled patch LaserLateUpdatePatch
+[Info   :ModulePatch] Enabled patch WeaponOverlappingPatch
+[Info   :ModulePatch] Enabled patch WeaponLengthPatch
+[Info   :ModulePatch] Enabled patch WeaponOverlappingPatch
+[Info   :ModulePatch] Enabled patch OnWeaponDrawPatch
+[Info   :ModulePatch] Enabled patch UpdateHipInaccuracyPatch
+[Info   :ModulePatch] Enabled patch SetFireModePatch
+[Info   :ModulePatch] Enabled patch ApplyItemPatch
+[Info   :ModulePatch] Enabled patch SetQuickSlotPatch
+[Info   :ModulePatch] Enabled patch ProceedPatch
+[Info   :ModulePatch] Enabled patch RemoveEffectPatch
+[Info   :ModulePatch] Enabled patch ReceiveDamagePatch
+[Info   :ModulePatch] Enabled patch StamRegenRatePatch
 [Message:   BepInEx] Chainloader startup complete
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/version
 [Info   :RequestHandler] Request was successful
@@ -100,10 +216,12 @@
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
 [Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
 [Info   :RequestHandler] Request was successful
 [Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
-[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [8429bed9-52e2-4731-a425-4912db8529a9] [ScavPMCspawn (1)] [Player] [All] [Factory]
+[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [0ba5301a-df26-49b5-8ee5-61bd0c1bd808] [PMC Spawn (91)] [Player] [Pmc] [Old Station]
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/difficulty/core/core
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/difficulty/marksman/easy
@@ -382,7 +500,176 @@
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/assault
 [Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptUsec
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/exUsec
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKojaniy
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerKojaniy
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sectantPriest
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sectantWarrior
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKnight
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBigPipe
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBirdEye
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/airdrop/config
+[Info   :RequestHandler] Request was successful
+[Info   :ModulePatch] Loading bot profile from server. role: followerKojaniy side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: bossKojaniy side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: followerKojaniy side: Savage
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/getBotBehaviours/
+[Info   :RequestHandler] Request was successful
+[Info   :   Console] cached: 2 bots
+[Info   :   Console] Updated spt bot Julius Snead: sptUsec to assault
+[Info   :   Console] Updated spt bot Byron Noone: sptUsec to exUsec
+[Info   :   Console] Updated spt bot Minh Roa: sptUsec to assault
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :   Console] Updated spt bot Бандровський Лялюшкин: sptBear to bossKnight
+[Info   :   Console] Updated spt bot Мальований Талалихин: sptBear to followerBigPipe
+[Info   :   Console] Updated spt bot Безотосний Брызгалов: sptBear to followerBigPipe
+[Info   :   Console] Updated spt bot Melvin Celestine: sptUsec to exUsec
+[Info   :   Console] Updated spt bot Garfield Clutter: sptUsec to assault
+[Info   :   Console] Updated spt bot Domenic Sicard: sptUsec to followerBirdEye
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Крижанівський Лютов: sptBear to bossKilla
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Bernard Mansfield: sptUsec to bossSanitar
+[Info   :   Console] Updated spt bot Бенеш Панфилов: sptBear to followerKojaniy
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :   Console] Updated spt bot Bryce Vivian: sptUsec to assault
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Evil Groove Фукин: sptBear to pmcBot
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :   Console] Updated spt bot Bart Chagnon: sptUsec to bossSanitar
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Warning:ModulePatch] duraBurn 0.1
+[Warning:ModulePatch] duraBurn 0.1
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/client/location/getAirdropLoot
+[Info   :RequestHandler] Request was successful
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Error  :ModulePatch] DogtagPatch error > DogTag slot item is null somehow.
+[Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Warning:ModulePatch] malfChance 0.153
+[Warning:ModulePatch] duraBurn 2.3
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Warning:ModulePatch] malfChance 0.153
+[Warning:ModulePatch] duraBurn 2.3
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
+[Info   :RequestHandler] Request was successful
+[Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
+[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [91ec8f79-6cc4-422d-966f-4cd6a02d5a87] [ScavPMCspawn (10)] [Player] [All] [Factory]
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/maxCap
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/assault
+[Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossTagilla
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKilla
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/pmcBot
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKnight
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBigPipe
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBirdEye
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
 [Info   :RequestHandler] Request was successful
@@ -390,45 +677,61 @@
 [Info   :RequestHandler] Request was successful
 [Info   :ModulePatch] Loading bot profile from server. role: bossTagilla side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/getBotBehaviours/
 [Info   :RequestHandler] Request was successful
 [Info   :   Console] cached: 2 bots
-[Info   :   Console] Updated spt bot Sarix: sptUsec to bossKilla
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :   Console] Updated spt bot DeadLeaves: sptBear to pmcBot
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Elroy Foshee: sptUsec to assault
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Odis Mollica: sptUsec to assault
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
 [Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot Antoni Cross: sptUsec to assault
-[Info   :   Console] Updated spt bot Kingsley Holt: sptUsec to exUsec
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :   Console] Updated spt bot Kilgor616: sptBear to exUsec
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :   Console] Updated spt bot Otacon: sptBear to bossKilla
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :   Console] Updated spt bot Konrad Lancaster: sptUsec to bossTagilla
+[Info   :   Console] Updated spt bot Marvin Seamons: sptUsec to pmcBot
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Чурило Кожуров: sptBear to assault
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Поважний Миронов: sptBear to followerBigPipe
+[Info   :   Console] Updated spt bot Neville Harwell: sptUsec to bossKilla
+[Info   :   Console] Updated spt bot Ковалів Мирский: sptBear to bossKnight
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Горілий Фурманов: sptBear to followerBigPipe
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :   Console] Updated spt bot Rufus Alamo: sptUsec to bossKilla
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
 [Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :   Console] Updated spt bot Георгий Антонов: sptBear to assault
-[Info   :   Console] Updated spt bot Богдан Глухов: sptBear to followerBully
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Otto Maness: sptUsec to bossSanitar
+[Info   :   Console] Updated spt bot Крижанівський Афонин: sptBear to bossKnight
+[Error  :ModulePatch] DogtagPatch error > DogTag slot item is null somehow.
 [Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
@@ -483,775 +786,327 @@
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
 [Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
 [Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
-[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [38a8fe02-f871-4b79-91e5-69c2c68d1bbc] [PMCspawn_exp (4)] [Player] [All] [Factory]
+[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [6d97a439-de10-42c5-99ef-6cf92e243aca] [ScavPMCspawn (25)] [Player] [All] [Factory]
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/maxCap
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/assault
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossTagilla
 [Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKilla
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/pmcBot
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKnight
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBigPipe
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBirdEye
+[Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptUsec
 [Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Loading bot profile from server. role: bossTagilla side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :   Console] Updated spt bot Ray Karn: sptUsec to assault
+[Info   :   Console] Updated spt bot Sal Mclawhorn: sptUsec to bossKilla
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Шимко Михалицин: sptBear to pmcBot
+[Info   :   Console] Updated spt bot Мосійчук Сёмин: sptBear to followerBigPipe
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Кардиналовський Чумаков: sptBear to bossKilla
+[Info   :   Console] Updated spt bot Здоренко Трусов: sptBear to pmcBot
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Таран Фёдоров: sptBear to assault
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :   Console] Updated spt bot Jed Lightfoot: sptUsec to assault
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/getBotBehaviours/
 [Info   :RequestHandler] Request was successful
 [Info   :   Console] cached: 2 bots
-[Info   :   Console] Updated spt bot Jeffery Whitworth: sptUsec to assault
+[Info   :   Console] Updated spt bot Семенюк Мухаметшин: sptBear to assault
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Панейко Кузьмич: sptBear to followerBigPipe
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot ANIME: sptUsec to exUsec
-[Info   :   Console] Updated spt bot Props: sptUsec to assault
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Denny Burroughs: sptUsec to pmcBot
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot Ronaldo Bird: sptUsec to bossKnight
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :   Console] Updated spt bot Derek Diez: sptUsec to followerBigPipe
+[Info   :   Console] Updated spt bot Geoffrey Otter: sptUsec to bossKilla
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :   Console] Updated spt bot Bill Meachum: sptUsec to followerBigPipe
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Рогоза Трындин: sptBear to pmcBot
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Error  :ModulePatch] DogtagPatch error > DogTag slot item is null somehow.
+[Info   :   Console] Updated spt bot Бандера Соломонов: sptBear to bossKilla
 [Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
 [Info   :RequestHandler] Request was successful
 [Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
 [Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [f656a561-6524-49e2-90c0-1cbbece183ce] [Spawn_USEC] [Player, Bot] [Usec] []
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
+[Warning:ModulePatch] malfChance 0.54
+[Warning:ModulePatch] duraBurn 7.8
+[Warning:ModulePatch] malfChance 0.54
+[Warning:ModulePatch] duraBurn 7.8
+[Warning:ModulePatch] malfChance 1.08
+[Warning:ModulePatch] duraBurn 0.1
+[Warning:ModulePatch] malfChance 1.08
+[Warning:ModulePatch] duraBurn 0.1
+[Warning:ModulePatch] malfChance 0.135
+[Warning:ModulePatch] duraBurn 1.09
+[Warning:ModulePatch] malfChance 0.135
+[Warning:ModulePatch] duraBurn 1.09
+[Warning:ModulePatch] malfChance 0.135
+[Warning:ModulePatch] duraBurn 0.87
+[Warning:ModulePatch] malfChance 0.135
+[Warning:ModulePatch] duraBurn 0.87
+[Warning:ModulePatch] malfChance 0.135
+[Warning:ModulePatch] duraBurn 1.09
+[Warning:ModulePatch] malfChance 0.135
+[Warning:ModulePatch] duraBurn 1.09
+[Warning:ModulePatch] malfChance 1.08
+[Warning:ModulePatch] malfChance 1.08
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
 [Info   :RequestHandler] Request was successful
 [Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
-[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [683f2734-6398-4b77-9bab-b87f3be35938] [ScavPMCspawn (20)] [Player] [All] [Factory]
+[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [92822146-7c98-4570-8bde-8d0d042ae3cf] [ScavPMCspawn (39)] [Player] [All] [Factory]
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/maxCap
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/assault
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossTagilla
 [Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKilla
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/pmcBot
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKnight
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBigPipe
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBirdEye
+[Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptUsec
 [Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Loading bot profile from server. role: bossTagilla side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :   Console] Updated spt bot Shivam Martins: sptUsec to pmcBot
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :   Console] Updated spt bot Александр Зайцев: sptBear to bossKnight
-[Info   :   Console] Updated spt bot Nikita: sptBear to bossTagilla
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :   Console] Updated spt bot snapple: sptBear to bossKilla
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :   Console] Updated spt bot Riaan Mcmanus: sptUsec to cursedAssault
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot VirtualHex: sptUsec to assault
-[Info   :   Console] Updated spt bot Zeeshan Fitzpatrick: sptUsec to pmcBot
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot Kyle Bean: sptUsec to bossSanitar
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot Santino Hobbs: sptUsec to exUsec
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot Jester_Stacks: sptUsec to bossKilla
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/getBotBehaviours/
 [Info   :RequestHandler] Request was successful
 [Info   :   Console] cached: 2 bots
-[Info   :   Console] Updated spt bot Claus1978: sptBear to assault
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :   Console] Updated spt bot bluehead: sptBear to exUsec
-[Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
-[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [2a1f1b80-72be-444d-9d8d-5f645a3fc019] [ScavPMCspawn (37)] [Player] [All] [Factory]
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/maxCap
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/assault
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossTagilla
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptUsec
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Loading bot profile from server. role: bossTagilla side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Kim Meece: sptUsec to followerBirdEye
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :   Console] Updated spt bot Gray Fox: sptBear to bossKilla
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
 [Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Поривай Рафиков: sptBear to assault
+[Info   :   Console] Updated spt bot Alvin Mayton: sptUsec to cursedAssault
 [Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Рогоза Шакмаков: sptBear to cursedAssault
 [Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :   Console] Updated spt bot snapple: sptBear to followerBully
-[Info   :   Console] Updated spt bot Thunderbags: sptBear to pmcBot
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Юнак Дацюк: sptBear to bossKilla
 [Error  :ModulePatch] DogtagPatch error > DogTag slot item is null somehow.
 [Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
-[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [2e1843a1-fd2a-4ccd-8b38-747c1a70f228] [PMCspawn_exp (3)] [Player] [All] [Factory]
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/maxCap
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/assault
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossTagilla
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptUsec
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Loading bot profile from server. role: bossTagilla side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/getBotBehaviours/
-[Info   :RequestHandler] Request was successful
-[Info   :   Console] cached: 2 bots
-[Info   :   Console] Updated spt bot Артём Елисеев: sptBear to pmcBot
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot Jae Mitchell: sptUsec to exUsec
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot Extrenz Arnautov: sptUsec to assault
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :   Console] Updated spt bot Spock: sptBear to assault
-[Info   :   Console] Updated spt bot Mako: sptBear to exUsec
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :   Console] Updated spt bot Fin: sptUsec to bossKilla
-[Info   :   Console] Updated spt bot 红衣抚琴染绛天涯: sptBear to exUsec
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot craink: sptUsec to pmcBot
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot jfetko: sptUsec to pmcBot
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot Props: sptUsec to pmcBot
-[Info   :   Console] Updated spt bot Donte Zhang: sptUsec to bossKilla
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot Micah Ferry: sptUsec to assault
-[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
-[Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
 [Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
 [Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [f656a561-6524-49e2-90c0-1cbbece183ce] [Spawn_USEC] [Player, Bot] [Usec] []
 [Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
 [Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Warning:ModulePatch] malfChance 0.135
+[Warning:ModulePatch] malfChance 0.135
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
 [Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
+[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [efb39132-1eff-4655-8fb0-d795f8f98eb3] [PMCspawn_exp (6)] [Player] [All] [Factory]
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/maxCap
 [Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/assault
 [Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossTagilla
 [Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKilla
 [Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/pmcBot
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKnight
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBigPipe
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBirdEye
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptUsec
+[Info   :RequestHandler] Request was successful
+[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Кольченко Ненашев: sptBear to followerBigPipe
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Федина Жарков: sptBear to bossKnight
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :   Console] Updated spt bot Darell Jarosz: sptUsec to pmcBot
+[Info   :   Console] Updated spt bot Горбач Энтин: sptBear to followerBigPipe
+[Info   :   Console] Updated spt bot Luigi Engstrom: sptUsec to followerBigPipe
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Karl Sangster: sptUsec to assault
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :   Console] Updated spt bot Donnie Schmitz: sptUsec to bossKilla
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Цибуленко Мятлев: sptBear to bossKnight
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Nelson Millikin: sptUsec to exUsec
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :   Console] Updated spt bot Coleman Cromwell: sptUsec to bossKnight
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Ковалик Помельников: sptBear to pmcBot
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Макогон Крутиков: sptBear to bossKnight
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save
 [Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
 [Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [f656a561-6524-49e2-90c0-1cbbece183ce] [Spawn_USEC] [Player, Bot] [Usec] []
 [Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
 [Info   :RequestHandler] Request was successful
+[Warning:ModulePatch] malfChance 0.135
+[Warning:ModulePatch] duraBurn 0.87
+[Warning:ModulePatch] malfChance 0.135
+[Warning:ModulePatch] duraBurn 0.87
 [Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
 [Info   :RequestHandler] Request was successful
+[Warning:ModulePatch] malfChance 1.26
 [Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
 [Info   :RequestHandler] Request was successful
+[Warning:ModulePatch] malfChance 1.26
+[Warning:ModulePatch] malfChance 0.135
+[Warning:ModulePatch] duraBurn 0.98
+[Warning:ModulePatch] malfChance 0.135
+[Warning:ModulePatch] duraBurn 0.98
 [Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
 [Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
 [Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
+[Info   :RequestHandler] Request was successful
 [Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
-[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [ab9fb40e-790c-40f2-aae0-f191aaecbf7e] [ScavPMCspawn (23)] [Player] [All] [Common]
+[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [f3c6d9ee-ca4e-44ca-abdf-0622a8249f1d] [ScavPMCspawn (26)] [Player] [All] [Factory]
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/maxCap
 [Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/assault
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossTagilla
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKilla
+[Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/pmcBot
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/bossKnight
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBigPipe
+[Info   :RequestHandler] Request was successful
+[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/followerBirdEye
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
 [Info   :RequestHandler] Request was successful
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptUsec
 [Info   :RequestHandler] Request was successful
+[Info   :ModulePatch] Loading bot profile from server. role: bossKilla side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
 [Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
 [Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/getBotBehaviours/
 [Info   :RequestHandler] Request was successful
 [Info   :   Console] cached: 2 bots
-[Info   :   Console] Updated spt bot Taryn Carpenter: sptUsec to bossKnight
-[Info   :   Console] Updated spt bot Decoy Octopus: sptUsec to bossKilla
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
+[Info   :   Console] Updated spt bot Wendell Farrior: sptUsec to pmcBot
+[Info   :   Console] Updated spt bot Demetrius Meissner: sptUsec to assault
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :   Console] Updated spt bot Kennith Somerville: sptUsec to exUsec
+[Info   :   Console] Updated spt bot Афанасенко Старцев: sptBear to bossKilla
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :ModulePatch] Loading bot profile from server. role: sptBear side: Bear
+[Info   :   Console] Updated spt bot Бережний Суханов: sptBear to cursedAssault
+[Info   :   Console] Updated spt bot Подоляка Дрягин: sptBear to followerBigPipe
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
+[Info   :ModulePatch] Loading bot profile from server. role: assault side: Savage
 [Error  :ModulePatch] DogtagPatch error > DogTag slot item is null somehow.
-[Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
-[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [bcf0ec7f-9673-4fa1-aede-fdc6d6dd616b] [ScavPMC_n3 (2)] [Player] [All] [Common]
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/maxCap
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/pmcBot
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptUsec
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/getBotBehaviours/
-[Info   :RequestHandler] Request was successful
-[Info   :   Console] cached: 2 bots
-[Info   :   Console] Updated spt bot Chuck Norris: sptUsec to exUsec
-[Info   :   Console] Updated spt bot Senko: sptUsec to assault
-[Info   :   Console] Updated spt bot Nomad_420: sptUsec to exUsec
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :   Console] Updated spt bot Vega: sptUsec to pmcBot
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Error  :ModulePatch] DogtagPatch error > DogTag slot item is null somehow.
-[Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
-[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [f3b5e0b0-0996-4191-81f3-a709b324d5b9] [ScavPMC_n1 (1)] [Player] [All] [Common]
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/maxCap
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/pmcBot
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptUsec
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Error  :ModulePatch] DogtagPatch error > DogTag slot item is null somehow.
-[Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
-[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [01d14f42-45de-45fb-be52-bfff19f3a470] [ScavPMCspawn (20)] [Player] [All] [Common]
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/maxCap
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/pmcBot
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptUsec
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Error  :ModulePatch] DogtagPatch error > DogTag slot item is null somehow.
-[Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
-[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [f92541a9-08ab-4c9e-957a-d802e143b705] [PlayerSpawnPoints] [Player] [All] [Hideout]
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request POST json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/player/health/sync
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/raid/menu
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Desired spawnpoint: [Player] [Usec] []
-[Info   :ModulePatch] PatchPrefix SelectSpawnPoint: [c3a0e266-3318-4db6-9c31-b7b780686ea8] [ScavPMCsnew_1 (27)] [Player] [All] [Common]
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/maxCap
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/pmcBot
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptBear
-[Info   :RequestHandler] Request was successful
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/limit/sptUsec
-[Info   :RequestHandler] Request was successful
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: sptUsec side: Usec
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :RequestHandler] Request GET json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/singleplayer/settings/bot/getBotBehaviours/
-[Info   :RequestHandler] Request was successful
-[Info   :   Console] cached: 2 bots
-[Info   :   Console] Updated spt bot Alex: sptUsec to bossTagilla
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
-[Info   :ModulePatch] Loading bot profile from server. role: pmcBot side: Savage
 [Info   :RequestHandler] Request PUT json: f2c415cacdcc626156b908aa:http://127.0.0.1:6969/raid/profile/save

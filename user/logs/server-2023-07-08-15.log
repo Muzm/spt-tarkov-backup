@@ -1,0 +1,188 @@
+[2023-07-08T07:54:44.574Z] debug: 	Importing configs...
+[2023-07-08T07:54:44.612Z] info: 	Commit hash: a213a18e4d0946ed72fc812ca0779be95349d6c0
+[2023-07-08T07:54:44.660Z] info: 	模组加载器：正在加载2模组...
+[2023-07-08T07:54:44.667Z] error: 	(ServerValueModifier1.6.4)模组是一个客户端修改模组，应当置于/spt/bepinex/plugins目录下
+[2023-07-08T07:54:44.674Z] info: 	已成功加载由Damkris编写的1.2.0版KeyBlindBox模组
+[2023-07-08T07:54:44.720Z] info: 	服务端：正在执行启动回调...
+[2023-07-08T07:54:44.724Z] info: 	正在导入数据库...
+[2023-07-08T07:54:44.934Z] debug: 	File validation failed for file: Aki_Data/Server/database/locales/server/zh.json
+[2023-07-08T07:54:47.917Z] info: 	Database import finished.
+[2023-07-08T07:54:49.878Z] succ: 	已在http://127.0.0.1:6969成功启动webserver
+[2023-07-08T07:54:49.879Z] succ: 	于ws://127.0.0.1:6969启动了websocket
+[2023-07-08T07:54:49.880Z] succ: 	服务器正在运行 玩得开心!!
+[2023-07-08T07:54:54.311Z] info: 	[客户端请求] /launcher/server/connect
+[2023-07-08T07:54:54.351Z] info: 	[客户端请求] /launcher/ping
+[2023-07-08T07:54:54.354Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T07:54:54.357Z] info: 	[客户端请求] /files/launcher/bg.png
+[2023-07-08T07:54:54.371Z] info: 	[客户端请求] /launcher/ping
+[2023-07-08T07:54:54.398Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T07:54:54.401Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T07:54:54.404Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T07:54:54.413Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T07:54:54.565Z] info: 	[客户端请求] /files/launcher/side_usec.png
+[2023-07-08T07:54:54.569Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T07:54:54.572Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T07:54:54.574Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T07:54:54.576Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T07:54:54.861Z] debug: 	Generator: 0.6568 fuel left in slot 2
+[2023-07-08T07:54:54.861Z] debug: 	Water filter: 61.449 filter left on slot 1
+[2023-07-08T07:54:54.956Z] info: 	存档已保存
+[2023-07-08T07:54:55.117Z] info: 	[客户端请求] /launcher/profile/compatibleTarkovVersion
+[2023-07-08T07:54:56.833Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T07:54:56.835Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T07:54:56.837Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T07:54:56.839Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T07:55:02.761Z] info: 	[客户端请求] /singleplayer/bundles
+[2023-07-08T07:55:14.901Z] debug: 	Generator: 0.6424 fuel left in slot 2
+[2023-07-08T07:55:14.902Z] debug: 	Water filter: 61.3981 filter left on slot 1
+[2023-07-08T07:55:14.959Z] info: 	存档已保存
+[2023-07-08T07:55:17.515Z] info: 	[客户端请求] /singleplayer/settings/version
+[2023-07-08T07:55:17.618Z] info: 	[客户端请求] /client/game/start
+[2023-07-08T07:55:17.619Z] debug: 	Added custom boss wave to factory4_day of type sptBear, time: -1, chance: 25, zone: BotZone
+[2023-07-08T07:55:17.619Z] debug: 	Added custom boss wave to factory4_day of type sptUsec, time: -1, chance: 25, zone: BotZone
+[2023-07-08T07:55:17.619Z] debug: 	Added custom boss wave to bigmap of type sptBear, time: -1, chance: 25, zone: ZoneScavBase
+[2023-07-08T07:55:17.619Z] debug: 	Added custom boss wave to bigmap of type sptUsec, time: -1, chance: 25, zone: ZoneScavBase
+[2023-07-08T07:55:17.619Z] debug: 	Added custom boss wave to woods of type sptBear, time: -1, chance: 25, zone: ZoneScavBase2
+[2023-07-08T07:55:17.619Z] debug: 	Added custom boss wave to woods of type sptUsec, time: -1, chance: 25, zone: ZoneScavBase2
+[2023-07-08T07:55:17.619Z] debug: 	Added custom boss wave to shoreline of type sptBear, time: -1, chance: 20, zone: ZonePort
+[2023-07-08T07:55:17.619Z] debug: 	Added custom boss wave to shoreline of type sptUsec, time: -1, chance: 20, zone: ZonePort
+[2023-07-08T07:55:17.619Z] debug: 	Added custom boss wave to shoreline of type sptUsec, time: -1, chance: 10, zone: ZoneSanatorium1
+[2023-07-08T07:55:17.619Z] debug: 	Added custom boss wave to shoreline of type sptBear, time: -1, chance: 10, zone: ZoneSanatorium1
+[2023-07-08T07:55:17.619Z] debug: 	Added custom boss wave to shoreline of type sptUsec, time: -1, chance: 10, zone: ZoneSanatorium2
+[2023-07-08T07:55:17.620Z] debug: 	Added custom boss wave to shoreline of type sptBear, time: -1, chance: 10, zone: ZoneSanatorium2
+[2023-07-08T07:55:17.620Z] debug: 	Added custom boss wave to laboratory of type sptBear, time: -1, chance: 15, zone: BotZoneFloor1
+[2023-07-08T07:55:17.620Z] debug: 	Added custom boss wave to laboratory of type sptBear, time: -1, chance: 15, zone: BotZoneFloor2
+[2023-07-08T07:55:17.620Z] debug: 	Added custom boss wave to laboratory of type sptBear, time: -1, chance: 15, zone: BotZoneBasement
+[2023-07-08T07:55:17.620Z] debug: 	Added custom boss wave to laboratory of type sptUsec, time: -1, chance: 15, zone: BotZoneFloor1
+[2023-07-08T07:55:17.620Z] debug: 	Added custom boss wave to laboratory of type sptUsec, time: -1, chance: 15, zone: BotZoneFloor2
+[2023-07-08T07:55:17.620Z] debug: 	Added custom boss wave to laboratory of type sptUsec, time: -1, chance: 15, zone: BotZoneBasement
+[2023-07-08T07:55:17.620Z] debug: 	Added custom boss wave to interchange of type sptBear, time: -1, chance: 15, zone: ZoneCenter,ZoneCenterBot,ZoneOLI,ZoneIDEA,ZoneGoshan,ZonePowerStation
+[2023-07-08T07:55:17.620Z] debug: 	Added custom boss wave to interchange of type sptUsec, time: -1, chance: 15, zone: ZoneCenter,ZoneCenterBot,ZoneOLI,ZoneIDEA,ZoneGoshan,ZonePowerStation
+[2023-07-08T07:55:17.621Z] debug: 	Started game with sessionId: f2c415cacdcc626156b908aa
+[2023-07-08T07:55:17.621Z] debug: 	Fixed assault Spawn: bigmap wave: 0 of type: assault in zone: ZoneBrige with Max Slots of 0
+[2023-07-08T07:55:17.621Z] debug: 	Fixed assault Spawn: bigmap wave: 1 of type: assault in zone: ZoneCrossRoad with Max Slots of 0
+[2023-07-08T07:55:17.621Z] debug: 	Fixed assault Spawn: bigmap wave: 15 of type: assault in zone: ZoneBlockPost with Max Slots of 0
+[2023-07-08T07:55:17.621Z] debug: 	Fixed assault Spawn: bigmap wave: 0 of type: assault in zone:  with Max Slots of 0
+[2023-07-08T07:55:17.621Z] debug: 	Fixed marksman Spawn: lighthouse wave: 2 of type: marksman in zone: Zone_SniperPeak with Max Slots of 1
+[2023-07-08T07:55:17.621Z] debug: 	Fixed assault Spawn: rezervbase wave: 2 of type: assault in zone:  with Max Slots of 2
+[2023-07-08T07:55:17.621Z] debug: 	Fixed assault Spawn: rezervbase wave: 7 of type: assault in zone:  with Max Slots of 2
+[2023-07-08T07:55:17.621Z] debug: 	Fixed marksman Spawn: shoreline wave: 9 of type: marksman in zone: ZonePowerStationSniper with Max Slots of 0
+[2023-07-08T07:55:17.621Z] debug: 	Fixed assault Spawn: woods wave: 6 of type: assault in zone: ZoneWoodCutter with Max Slots of 0
+[2023-07-08T07:55:17.621Z] debug: 	Fixed assault Spawn: woods wave: 7 of type: assault in zone: ZoneBigRocks with Max Slots of 0
+[2023-07-08T07:55:17.622Z] debug: 	Fixed assault Spawn: woods wave: 8 of type: assault in zone: ZoneRoad with Max Slots of 0
+[2023-07-08T07:55:17.622Z] debug: 	Fixed marksman Spawn: woods wave: 9 of type: marksman in zone: ZoneHighRocks with Max Slots of 1
+[2023-07-08T07:55:17.622Z] debug: 	Splitting map: bigmap wave: 19 with 4 bots
+[2023-07-08T07:55:17.622Z] debug: 	Splitting map: bigmap wave: 24 with 4 bots
+[2023-07-08T07:55:17.622Z] debug: 	Splitting map: Lighthouse wave: 3 with 4 bots
+[2023-07-08T07:55:17.622Z] debug: 	Splitting map: Shoreline wave: 16 with 4 bots
+[2023-07-08T07:55:17.622Z] debug: 	Splitting map: Shoreline wave: 27 with 5 bots
+[2023-07-08T07:55:17.622Z] debug: 	Splitting map: Shoreline wave: 32 with 5 bots
+[2023-07-08T07:55:17.622Z] debug: 	Splitting map: Shoreline wave: 37 with 6 bots
+[2023-07-08T07:55:17.622Z] debug: 	Splitting map: Shoreline wave: 43 with 6 bots
+[2023-07-08T07:55:17.622Z] debug: 	Splitting map: TarkovStreets wave: 8 with 5 bots
+[2023-07-08T07:55:17.623Z] debug: 	Splitting map: TarkovStreets wave: 13 with 4 bots
+[2023-07-08T07:55:17.623Z] debug: 	Splitting map: TarkovStreets wave: 17 with 4 bots
+[2023-07-08T07:55:17.623Z] debug: 	Splitting map: Woods wave: 15 with 4 bots
+[2023-07-08T07:55:17.623Z] debug: 	Splitting map: Woods wave: 19 with 4 bots
+[2023-07-08T07:55:17.623Z] debug: 	Splitting map: Woods wave: 23 with 4 bots
+[2023-07-08T07:55:17.623Z] debug: 	Splitting map: Woods wave: 27 with 5 bots
+[2023-07-08T07:55:17.623Z] debug: 	Splitting map: Woods wave: 32 with 4 bots
+[2023-07-08T07:55:17.625Z] debug: 	Unable to get bonuses for hideout area: 3 stage: 0
+[2023-07-08T07:55:17.626Z] debug: 	Unable to get bonuses for hideout area: 0 stage: 0
+[2023-07-08T07:55:17.626Z] debug: 	Unable to get bonuses for hideout area: 0 stage: 1
+[2023-07-08T07:55:17.626Z] debug: 	Unable to get bonuses for hideout area: 0 stage: 2
+[2023-07-08T07:55:17.626Z] debug: 	Unable to get bonuses for hideout area: 0 stage: 3
+[2023-07-08T07:55:17.628Z] debug: 	Unable to get bonuses for hideout area: 1 stage: 0
+[2023-07-08T07:55:17.628Z] debug: 	Unable to get bonuses for hideout area: 1 stage: 1
+[2023-07-08T07:55:17.628Z] debug: 	Unable to get bonuses for hideout area: 1 stage: 2
+[2023-07-08T07:55:17.628Z] debug: 	Unable to get bonuses for hideout area: 1 stage: 3
+[2023-07-08T07:55:17.629Z] debug: 	Unable to get bonuses for hideout area: 2 stage: 0
+[2023-07-08T07:55:17.629Z] debug: 	Unable to get bonuses for hideout area: 4 stage: 0
+[2023-07-08T07:55:17.629Z] debug: 	Unable to get bonuses for hideout area: 5 stage: 0
+[2023-07-08T07:55:17.629Z] debug: 	Unable to get bonuses for hideout area: 6 stage: 0
+[2023-07-08T07:55:17.629Z] debug: 	Unable to get bonuses for hideout area: 7 stage: 0
+[2023-07-08T07:55:17.629Z] debug: 	Unable to get bonuses for hideout area: 8 stage: 0
+[2023-07-08T07:55:17.629Z] debug: 	Unable to get bonuses for hideout area: 9 stage: 0
+[2023-07-08T07:55:17.629Z] debug: 	Unable to get bonuses for hideout area: 10 stage: 0
+[2023-07-08T07:55:17.629Z] debug: 	Unable to get bonuses for hideout area: 11 stage: 0
+[2023-07-08T07:55:17.629Z] debug: 	Unable to get bonuses for hideout area: 12 stage: 0
+[2023-07-08T07:55:17.630Z] debug: 	Unable to get bonuses for hideout area: 13 stage: 0
+[2023-07-08T07:55:17.630Z] debug: 	Unable to get bonuses for hideout area: 14 stage: 0
+[2023-07-08T07:55:17.630Z] debug: 	Unable to get bonuses for hideout area: 15 stage: 0
+[2023-07-08T07:55:17.630Z] debug: 	Unable to get bonuses for hideout area: 15 stage: 1
+[2023-07-08T07:55:17.630Z] debug: 	Unable to get bonuses for hideout area: 15 stage: 2
+[2023-07-08T07:55:17.630Z] debug: 	Unable to get bonuses for hideout area: 15 stage: 3
+[2023-07-08T07:55:17.630Z] debug: 	Unable to get bonuses for hideout area: 17 stage: 0
+[2023-07-08T07:55:17.630Z] debug: 	Unable to get bonuses for hideout area: 19 stage: 0
+[2023-07-08T07:55:17.630Z] debug: 	Unable to get bonuses for hideout area: 20 stage: 0
+[2023-07-08T07:55:17.630Z] debug: 	Unable to get bonuses for hideout area: 22 stage: 0
+[2023-07-08T07:55:17.631Z] debug: 	Unable to get bonuses for hideout area: 22 stage: 2
+[2023-07-08T07:55:17.631Z] debug: 	Unable to get bonuses for hideout area: 23 stage: 0
+[2023-07-08T07:55:17.631Z] debug: 	Unable to get bonuses for hideout area: 23 stage: 1
+[2023-07-08T07:55:17.632Z] debug: 	Profile made with: 3.5.6 (23043)
+[2023-07-08T07:55:17.632Z] debug: 	Server version: 3.5.8
+[2023-07-08T07:55:17.632Z] debug: 	Debug enabled: false
+[2023-07-08T07:55:17.632Z] debug: 	Mods enabled: true
+[2023-07-08T07:55:17.632Z] debug: 	OS: x64 | Windows 10 Pro | win32
+[2023-07-08T07:55:17.639Z] debug: 	CPU: AMD Ryzen 7 3700X 8-Core Processor             
+[2023-07-08T07:55:17.639Z] debug: 	RAM: 47.95021057128906GB
+[2023-07-08T07:55:17.639Z] debug: 	PATH: RDpcQ2xpZW50LjAuMTMuMC40LjIzMDQzXEFraS5TZXJ2ZXIuZXhl
+[2023-07-08T07:55:17.639Z] debug: 	PATH: RDpcQ2xpZW50LjAuMTMuMC40LjIzMDQzXEFraS5TZXJ2ZXIuZXhl
+[2023-07-08T07:55:17.683Z] info: 	[客户端请求] /client/menu/locale/en
+[2023-07-08T07:55:17.747Z] info: 	[客户端请求] /client/game/version/validate
+[2023-07-08T07:55:17.800Z] info: 	[客户端请求] /client/languages
+[2023-07-08T07:55:17.860Z] info: 	[客户端请求] /client/game/config
+[2023-07-08T07:55:18.998Z] info: 	[客户端请求] /client/items
+[2023-07-08T07:55:25.315Z] info: 	[客户端请求] /client/customization
+[2023-07-08T07:55:25.477Z] info: 	[客户端请求] /client/globals
+[2023-07-08T07:55:26.064Z] info: 	[客户端请求] /client/trading/api/traderSettings
+[2023-07-08T07:55:26.132Z] info: 	[客户端请求] /client/settings
+[2023-07-08T07:55:26.183Z] info: 	[客户端请求] /client/game/profile/list
+[2023-07-08T07:55:27.095Z] info: 	[客户端请求] /client/game/profile/select
+[2023-07-08T07:55:27.151Z] info: 	[客户端请求] /client/profile/status
+[2023-07-08T07:55:27.206Z] info: 	[客户端请求] /client/locale/en
+[2023-07-08T07:55:27.233Z] info: 	[客户端请求] /client/weather
+[2023-07-08T07:55:27.234Z] info: 	[客户端请求] /client/locations
+[2023-07-08T07:55:28.163Z] info: 	[客户端请求] /client/handbook/templates
+[2023-07-08T07:55:29.279Z] info: 	[客户端请求] /client/hideout/areas
+[2023-07-08T07:55:29.413Z] info: 	[客户端请求] /client/hideout/qte/list
+[2023-07-08T07:55:29.469Z] info: 	[客户端请求] /client/hideout/settings
+[2023-07-08T07:55:29.520Z] info: 	[客户端请求] /client/hideout/production/recipes
+[2023-07-08T07:55:29.693Z] info: 	[客户端请求] /client/hideout/production/scavcase/recipes
+[2023-07-08T07:55:29.772Z] info: 	[客户端请求] /client/handbook/builds/my/list
+[2023-07-08T07:55:31.818Z] info: 	[客户端请求] /client/notifier/channel/create
+[2023-07-08T07:55:31.819Z] info: 	[客户端请求] /client/profile/status
+[2023-07-08T07:55:31.820Z] info: 	[客户端请求] /client/friend/list
+[2023-07-08T07:55:31.821Z] info: 	[客户端请求] /client/friend/request/list/inbox
+[2023-07-08T07:55:31.822Z] info: 	[客户端请求] /client/mail/dialog/list
+[2023-07-08T07:55:31.823Z] info: 	[客户端请求] /client/friend/request/list/outbox
+[2023-07-08T07:55:31.823Z] info: 	[客户端请求] /client/trading/customization/storage
+[2023-07-08T07:55:31.879Z] info: 	[WS] 玩家：f2c415cacdcc626156b908aa已连接
+[2023-07-08T07:55:31.898Z] info: 	[客户端请求] /client/server/list
+[2023-07-08T07:55:31.899Z] info: 	[客户端请求] /client/match/group/current
+[2023-07-08T07:55:31.900Z] info: 	[客户端请求] /client/quest/list
+[2023-07-08T07:55:32.943Z] info: 	[客户端请求] /client/repeatalbeQuests/activityPeriods
+[2023-07-08T07:55:32.944Z] debug: 	Generating new Daily
+[2023-07-08T07:55:33.279Z] debug: 	[Quest Check] Weekly quests are still valid.
+[2023-07-08T07:55:33.279Z] debug: 	Generating new Daily_Savage
+[2023-07-08T07:55:34.930Z] debug: 	Generator: 0.628 fuel left in slot 2
+[2023-07-08T07:55:34.930Z] debug: 	Water filter: 61.3472 filter left on slot 1
+[2023-07-08T07:55:34.992Z] info: 	存档已保存
+[2023-07-08T07:55:44.879Z] info: 	[客户端请求] /client/checkVersion
+[2023-07-08T07:55:54.831Z] info: 	[客户端请求] /player/health/sync
+[2023-07-08T07:55:54.969Z] debug: 	Generator: 0.6136 fuel left in slot 2
+[2023-07-08T07:55:54.969Z] debug: 	Water filter: 61.2963 filter left on slot 1
+[2023-07-08T07:55:55.041Z] info: 	存档已保存
+[2023-07-08T07:55:55.781Z] info: 	[客户端请求] /client/game/profile/items/moving
+[2023-07-08T07:55:55.781Z] debug: 	event: HideoutTakeProduction
+[2023-07-08T07:55:57.297Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T07:55:57.299Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T07:56:15.002Z] debug: 	Generator: 0.5992 fuel left in slot 2
+[2023-07-08T07:56:15.002Z] debug: 	Water filter: 61.2428 filter left on slot 1
+[2023-07-08T07:56:15.065Z] info: 	存档已保存
+[2023-07-08T07:56:30.461Z] info: 	[客户端请求] /client/game/logout
+[2023-07-08T07:56:35.023Z] debug: 	Generator: 0.5848 fuel left in slot 2
+[2023-07-08T07:56:35.023Z] debug: 	Water filter: 61.1919 filter left on slot 1
+[2023-07-08T07:56:35.082Z] info: 	存档已保存
+[2023-07-08T07:56:35.294Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T07:56:35.299Z] info: 	[客户端请求] /launcher/server/version

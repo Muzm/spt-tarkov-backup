@@ -1,0 +1,172 @@
+[2023-07-08T06:23:02.959Z] debug: 	Importing configs...
+[2023-07-08T06:23:03.168Z] info: 	Commit hash: a213a18e4d0946ed72fc812ca0779be95349d6c0
+[2023-07-08T06:23:03.192Z] info: 	模组加载器：正在加载3模组...
+[2023-07-08T06:23:03.194Z] error: 	(ServerValueModifier1.6.4)模组是一个客户端修改模组，应当置于/spt/bepinex/plugins目录下
+[2023-07-08T06:23:03.198Z] warn: 	Fontaine-SPT Realism Mod模组与当前AKI版本并不适配。您可能会遇到游戏报错，且不会有技术支持
+[2023-07-08T06:23:03.200Z] debug: 	ModLoader: Mod SPT-Realism-Mod is missing from order.json
+[2023-07-08T06:23:03.203Z] info: 	已成功加载由Damkris编写的1.2.0版KeyBlindBox模组
+[2023-07-08T06:23:03.244Z] debug: 	Mod SPT-Realism-Mod hash stored in ./user/cache/modCache.json
+[2023-07-08T06:23:06.263Z] info: 	已成功加载由Fontaine编写的0.7.12版SPT Realism Mod模组
+[2023-07-08T06:23:06.372Z] info: 	服务端：正在执行启动回调...
+[2023-07-08T06:23:06.374Z] info: 	正在导入数据库...
+[2023-07-08T06:23:07.373Z] debug: 	File validation failed for file: Aki_Data/Server/database/locales/server/zh.json
+[2023-07-08T06:23:14.631Z] info: 	Database import finished.
+[2023-07-08T06:23:16.968Z] succ: 	已在http://127.0.0.1:6969成功启动webserver
+[2023-07-08T06:23:16.970Z] succ: 	于ws://127.0.0.1:6969启动了websocket
+[2023-07-08T06:23:16.971Z] succ: 	服务器正在运行 玩得开心!!
+[2023-07-08T06:23:21.982Z] debug: 	Generator: 0.9016 fuel left in slot 2
+[2023-07-08T06:23:21.982Z] debug: 	Water filter: 75.4416 filter left on slot 1
+[2023-07-08T06:23:22.037Z] info: 	存档已保存
+[2023-07-08T06:23:26.188Z] info: 	[客户端请求] /launcher/server/connect
+[2023-07-08T06:23:26.222Z] info: 	[客户端请求] /launcher/ping
+[2023-07-08T06:23:26.224Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:23:26.227Z] info: 	[客户端请求] /files/launcher/bg.png
+[2023-07-08T06:23:26.240Z] info: 	[客户端请求] /launcher/ping
+[2023-07-08T06:23:26.266Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T06:23:26.271Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T06:23:26.274Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:23:26.283Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:23:26.430Z] info: 	[客户端请求] /files/launcher/side_usec.png
+[2023-07-08T06:23:26.434Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T06:23:26.436Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T06:23:26.437Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:23:26.440Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:23:26.957Z] info: 	[客户端请求] /launcher/profile/compatibleTarkovVersion
+[2023-07-08T06:23:32.734Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T06:23:32.736Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T06:23:32.737Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:23:32.739Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:23:37.020Z] debug: 	Generator: 0.8872 fuel left in slot 2
+[2023-07-08T06:23:37.020Z] debug: 	Water filter: 75.4008 filter left on slot 1
+[2023-07-08T06:23:42.098Z] info: 	存档已保存
+[2023-07-08T06:23:44.413Z] info: 	[客户端请求] /singleplayer/bundles
+[2023-07-08T06:23:44.725Z] info: 	[客户端请求] /RealismMod/GetInfo
+[2023-07-08T06:23:57.039Z] debug: 	Generator: 0.8728 fuel left in slot 2
+[2023-07-08T06:23:57.039Z] debug: 	Water filter: 75.3499 filter left on slot 1
+[2023-07-08T06:24:02.121Z] info: 	存档已保存
+[2023-07-08T06:24:17.066Z] debug: 	Generator: 0.8584 fuel left in slot 2
+[2023-07-08T06:24:17.066Z] debug: 	Water filter: 75.299 filter left on slot 1
+[2023-07-08T06:24:22.146Z] info: 	存档已保存
+[2023-07-08T06:24:37.099Z] debug: 	Generator: 0.844 fuel left in slot 2
+[2023-07-08T06:24:37.099Z] debug: 	Water filter: 75.2481 filter left on slot 1
+[2023-07-08T06:24:38.876Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:24:38.878Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:24:42.178Z] info: 	存档已保存
+[2023-07-08T06:24:57.133Z] debug: 	Generator: 0.8296 fuel left in slot 2
+[2023-07-08T06:24:57.133Z] debug: 	Water filter: 75.1972 filter left on slot 1
+[2023-07-08T06:25:02.209Z] info: 	存档已保存
+[2023-07-08T06:25:17.149Z] debug: 	Generator: 0.8152 fuel left in slot 2
+[2023-07-08T06:25:17.149Z] debug: 	Water filter: 75.1463 filter left on slot 1
+[2023-07-08T06:25:20.865Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:25:20.870Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:25:22.226Z] info: 	存档已保存
+[2023-07-08T06:25:35.176Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T06:25:35.178Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T06:25:35.179Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:25:35.181Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:25:35.685Z] info: 	[客户端请求] /launcher/profile/compatibleTarkovVersion
+[2023-07-08T06:25:37.179Z] debug: 	Generator: 0.8008 fuel left in slot 2
+[2023-07-08T06:25:37.180Z] debug: 	Water filter: 75.0954 filter left on slot 1
+[2023-07-08T06:25:42.315Z] debug: 	Importing configs...
+[2023-07-08T06:25:42.328Z] info: 	Commit hash: a213a18e4d0946ed72fc812ca0779be95349d6c0
+[2023-07-08T06:25:42.348Z] info: 	模组加载器：正在加载3模组...
+[2023-07-08T06:25:42.350Z] error: 	(ServerValueModifier1.6.4)模组是一个客户端修改模组，应当置于/spt/bepinex/plugins目录下
+[2023-07-08T06:25:42.354Z] warn: 	Fontaine-SPT Realism Mod模组与当前AKI版本并不适配。您可能会遇到游戏报错，且不会有技术支持
+[2023-07-08T06:25:42.354Z] debug: 	ModLoader: Mod SPT-Realism-Mod is missing from order.json
+[2023-07-08T06:25:42.357Z] info: 	已成功加载由Damkris编写的1.2.0版KeyBlindBox模组
+[2023-07-08T06:25:42.365Z] info: 	已成功加载由Fontaine编写的0.7.12版SPT Realism Mod模组
+[2023-07-08T06:25:42.468Z] info: 	服务端：正在执行启动回调...
+[2023-07-08T06:25:42.471Z] info: 	正在导入数据库...
+[2023-07-08T06:25:42.576Z] debug: 	File validation failed for file: Aki_Data/Server/database/locales/server/zh.json
+[2023-07-08T06:25:45.386Z] info: 	Database import finished.
+[2023-07-08T06:25:47.825Z] succ: 	已在http://127.0.0.1:6969成功启动webserver
+[2023-07-08T06:25:47.827Z] succ: 	于ws://127.0.0.1:6969启动了websocket
+[2023-07-08T06:25:47.827Z] succ: 	服务器正在运行 玩得开心!!
+[2023-07-08T06:25:47.975Z] info: 	[客户端请求] /launcher/ping
+[2023-07-08T06:25:47.994Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:25:47.998Z] info: 	[客户端请求] /files/launcher/bg.png
+[2023-07-08T06:25:48.011Z] info: 	[客户端请求] /launcher/ping
+[2023-07-08T06:25:48.042Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T06:25:48.045Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T06:25:48.051Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:25:48.059Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:25:48.210Z] info: 	[客户端请求] /files/launcher/side_usec.png
+[2023-07-08T06:25:48.214Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T06:25:48.216Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T06:25:48.218Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:25:48.220Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:25:48.734Z] info: 	[客户端请求] /launcher/profile/compatibleTarkovVersion
+[2023-07-08T06:25:52.833Z] debug: 	Generator: 0.8008 fuel left in slot 2
+[2023-07-08T06:25:52.833Z] debug: 	Water filter: 75.0571 filter left on slot 1
+[2023-07-08T06:25:52.889Z] info: 	存档已保存
+[2023-07-08T06:26:02.563Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T06:26:02.566Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T06:26:02.568Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:26:02.570Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:26:12.872Z] debug: 	Generator: 0.7864 fuel left in slot 2
+[2023-07-08T06:26:12.872Z] debug: 	Water filter: 75.0062 filter left on slot 1
+[2023-07-08T06:26:12.939Z] info: 	存档已保存
+[2023-07-08T06:26:32.907Z] debug: 	Generator: 0.772 fuel left in slot 2
+[2023-07-08T06:26:32.908Z] debug: 	Water filter: 74.9553 filter left on slot 1
+[2023-07-08T06:26:32.970Z] info: 	存档已保存
+[2023-07-08T06:26:52.945Z] debug: 	Generator: 0.7576 fuel left in slot 2
+[2023-07-08T06:26:52.946Z] debug: 	Water filter: 74.9044 filter left on slot 1
+[2023-07-08T06:26:53.011Z] info: 	存档已保存
+[2023-07-08T06:27:14.697Z] debug: 	Importing configs...
+[2023-07-08T06:27:14.711Z] info: 	Commit hash: a213a18e4d0946ed72fc812ca0779be95349d6c0
+[2023-07-08T06:27:14.731Z] info: 	模组加载器：正在加载3模组...
+[2023-07-08T06:27:14.733Z] error: 	(ServerValueModifier1.6.4)模组是一个客户端修改模组，应当置于/spt/bepinex/plugins目录下
+[2023-07-08T06:27:14.737Z] warn: 	Fontaine-SPT Realism Mod模组与当前AKI版本并不适配。您可能会遇到游戏报错，且不会有技术支持
+[2023-07-08T06:27:14.737Z] debug: 	ModLoader: Mod SPT-Realism-Mod is missing from order.json
+[2023-07-08T06:27:14.740Z] info: 	已成功加载由Damkris编写的1.2.0版KeyBlindBox模组
+[2023-07-08T06:27:14.748Z] info: 	已成功加载由Fontaine编写的0.7.12版SPT Realism Mod模组
+[2023-07-08T06:27:14.856Z] info: 	服务端：正在执行启动回调...
+[2023-07-08T06:27:14.859Z] info: 	正在导入数据库...
+[2023-07-08T06:27:14.960Z] debug: 	File validation failed for file: Aki_Data/Server/database/locales/server/zh.json
+[2023-07-08T06:27:17.681Z] info: 	Database import finished.
+[2023-07-08T06:27:20.043Z] succ: 	已在http://127.0.0.1:6969成功启动webserver
+[2023-07-08T06:27:20.045Z] succ: 	于ws://127.0.0.1:6969启动了websocket
+[2023-07-08T06:27:20.046Z] succ: 	服务器正在运行 玩得开心!!
+[2023-07-08T06:27:25.052Z] debug: 	Generator: 0.7432 fuel left in slot 2
+[2023-07-08T06:27:25.052Z] debug: 	Water filter: 74.8203 filter left on slot 1
+[2023-07-08T06:27:25.110Z] info: 	存档已保存
+[2023-07-08T06:27:27.423Z] info: 	[客户端请求] /launcher/server/connect
+[2023-07-08T06:27:27.451Z] info: 	[客户端请求] /launcher/ping
+[2023-07-08T06:27:27.454Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:27:27.456Z] info: 	[客户端请求] /files/launcher/bg.png
+[2023-07-08T06:27:27.469Z] info: 	[客户端请求] /launcher/ping
+[2023-07-08T06:27:27.496Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T06:27:27.499Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T06:27:27.503Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:27:27.512Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:27:27.659Z] info: 	[客户端请求] /files/launcher/side_usec.png
+[2023-07-08T06:27:27.662Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T06:27:27.664Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T06:27:27.667Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:27:27.669Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:27:28.186Z] info: 	[客户端请求] /launcher/profile/compatibleTarkovVersion
+[2023-07-08T06:27:29.439Z] info: 	[客户端请求] /launcher/profile/login
+[2023-07-08T06:27:29.442Z] info: 	[客户端请求] /launcher/profile/get
+[2023-07-08T06:27:29.443Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:27:29.444Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:27:37.701Z] info: 	[客户端请求] /singleplayer/bundles
+[2023-07-08T06:27:38.038Z] info: 	[客户端请求] /RealismMod/GetInfo
+[2023-07-08T06:27:45.071Z] debug: 	Generator: 0.7288 fuel left in slot 2
+[2023-07-08T06:27:45.071Z] debug: 	Water filter: 74.7694 filter left on slot 1
+[2023-07-08T06:27:45.128Z] info: 	存档已保存
+[2023-07-08T06:28:05.110Z] debug: 	Generator: 0.7144 fuel left in slot 2
+[2023-07-08T06:28:05.110Z] debug: 	Water filter: 74.7185 filter left on slot 1
+[2023-07-08T06:28:05.183Z] info: 	存档已保存
+[2023-07-08T06:28:25.147Z] debug: 	Generator: 0.7 fuel left in slot 2
+[2023-07-08T06:28:25.147Z] debug: 	Water filter: 74.6676 filter left on slot 1
+[2023-07-08T06:28:25.225Z] info: 	存档已保存
+[2023-07-08T06:28:32.561Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:28:32.564Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:28:33.559Z] info: 	[客户端请求] /launcher/profile/info
+[2023-07-08T06:28:33.561Z] info: 	[客户端请求] /launcher/server/version
+[2023-07-08T06:28:45.172Z] debug: 	Generator: 0.6856 fuel left in slot 2
+[2023-07-08T06:28:45.172Z] debug: 	Water filter: 74.6167 filter left on slot 1
+[2023-07-08T06:28:45.255Z] info: 	存档已保存
+[2023-07-08T06:29:05.214Z] debug: 	Generator: 0.6712 fuel left in slot 2
+[2023-07-08T06:29:05.214Z] debug: 	Water filter: 74.5658 filter left on slot 1
+[2023-07-08T06:29:05.298Z] info: 	存档已保存
